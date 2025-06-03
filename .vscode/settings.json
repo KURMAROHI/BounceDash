@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Bounce Dash.sln"
+    "dotnet.defaultSolution": "BounceDash.sln"
 }
