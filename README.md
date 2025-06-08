@@ -57,7 +57,34 @@ Features endless procedural levels, smooth asynchronous scene loading, and a vib
 
 
 
+## Short Note on Game Feel and Optimization
 
+1. Game Feel:
+    Controls: Emphasizes Player.cs’s smooth movement with _touchSensitivity for mobile swipes and 
+    velocity clamping for desktop, ensuring responsive input (_horizontalSpeed, _maxHorizontalSpeed).
+
+2. Feedback: 
+    Highlights audio cues for jumps (_jumpClip, _HightjumpClip in PlayerAudioControl.cs),
+    collectibles (_coinCollectClip, _gemCollectClip in CoinCollect.cs, GemsCollect.cs),
+    and collisions (_hurtClip), managed by AudioManager.cs.
+
+3. Visuals: 
+    Mentions text UI with Bangers/Comic Neue (UIManager.cs) and platform 
+    animations (BreakPlatForm, Spring tags in Player.cs) for a cohesive, lively aesthetic.
+
+## Optimization:
+
+1. Async Loading: SceneTransitionManager.cs uses SceneManager.LoadSceneAsync 
+with a progress bar (_progressBar, _progressText) to ensure smooth 
+transitions, critical for mobile.
+
+2. Physics: Uses lightweight 2D physics with trigger-based collisions 
+(Obstacle.cs, CoinCollect.cs, GemsCollect.cs) to reduce performance 
+overhead, as seen in OnTriggerEnter2D.
+
+3. Efficiency: Singletons (ScoreManager.cs, AudioManager.cs, UIManager.cs) with
+DontDestroyOnLoad minimize reinstantiation. LevelGenerator.cs uses ScriptableObjects 
+(_platformData, _itemData) for decoupling and overlap checks for efficient procedural generation.
 
 
 
