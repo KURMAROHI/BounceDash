@@ -2,7 +2,7 @@
 A 2D Unity platformer where players bounce on platforms, dodge obstacles, and collect coins and gems to achieve the highest score. 
 Features endless procedural levels, smooth asynchronous scene loading, and a vibrant doodle-style aesthetic.
 
-# Features
+## Features
 1)Endless vertical platforming with procedurally generated levels
 2)Responsive player movement using touch swipes or keyboard input
 3)Varied platforms: normal, breakable, and springs for high jumps
