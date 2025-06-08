@@ -10,7 +10,7 @@ public class PlayerMainMenuControl : MonoBehaviour
     private AudioSource _audioSorce;
     private float _bounceForce = 7f;
 
-    private float xOffset = 1f;
+    private float xOffset = 3f;
     private float yOffset = 1f;
     private void Awake()
     {
@@ -32,7 +32,7 @@ public class PlayerMainMenuControl : MonoBehaviour
         {
             Transform flyBird = Instantiate(_fly[Random.Range(0, _fly.Length)]);
             int direction = Random.Range(0, 2) == 1 ? 1 : -1;
-            flyBird.position = new Vector3(direction * xMax, yMax - yOffset, 10);
+            flyBird.position = new Vector3(direction * xMax, yMax - yOffset*3, 10);
         }
     }
 
