@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9026d77db20bcfa40b6a4eb76ace1c3f, type: 3}
+  m_Name: DynamicObStacles
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 7932554548047745684, guid: 45b84321c0e9b934e924980edb9dc97a, type: 3}
+  - {fileID: 7486085443740949947, guid: 28a9430deb70bf4438899a1917f65697, type: 3}
+  - {fileID: 5549653379357167065, guid: 997e5902c0a87ca4f8d68124b4e8c531, type: 3}
+  spawnChance: 4
+  isStatic: 0
+  spawnOffsetY: 1
+  spawnCheckRadius: 1.5
+  platformLayerMask:
+    serializedVersion: 2
+    m_Bits: 64

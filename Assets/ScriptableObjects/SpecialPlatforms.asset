@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51d9a497d012474ea070a15f5db4814, type: 3}
+  m_Name: SpecialPlatforms
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 1398699882659475157, guid: 553425c5fe776bb40a9529bae7882059, type: 3}
+  - {fileID: 6310252682984658637, guid: 0feb904002291c64585fa716708b5086, type: 3}
+  - {fileID: 1717499333319932562, guid: 523d29ff8f723cb458b626aa441e65f0, type: 3}
+  - {fileID: 3381816509837260094, guid: 2e0560eaffbf6054089253fca3c46f20, type: 3}
+  spawnChance: 15
+  isRegularPlatform: 0
+  minHeightThreshold: 3

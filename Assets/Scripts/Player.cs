@@ -1,12 +1,17 @@
 
 
+using System;
 using UnityEngine;
 
+
+[RequireComponent(typeof(PlayerAudioControl), typeof(AudioSource))]
 public class Player : MonoBehaviour
 {
     private Rigidbody2D _rb;
     private Camera _mainCamera;
     [SerializeField] private float _bounceForce = 5f; // Controls vertical bounce strength
+    [SerializeField] private float _springForce = 8f; // Controls vertical bounce while jump on Spring
+    [SerializeField] private float _gravityForce = -9.8f;
     [SerializeField] private float _horizontalSpeed = 5f; // Controls horizontal movement speed
     [SerializeField] private float _maxHorizontalSpeed = 5f; // Max horizontal speed to prevent overspeeding
     [SerializeField] private float _touchSensitivity = 0.01f; // Sensitivity for touch swipe
@@ -16,7 +21,9 @@ public class Player : MonoBehaviour
     // Screen boundary variables
     private float _minX, _maxX;
     private float _ballHalfWidth;
-
+    private CircleCollider2D _playeCollider2D;
+    private bool _isplayerAlive = false;
+    private PlayerAudioControl _playerAudioControl;
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
@@ -28,18 +35,32 @@ public class Player : MonoBehaviour
         _minX = _mainCamera.ViewportToWorldPoint(new Vector3(0, 0, camDistance)).x;
         _maxX = _mainCamera.ViewportToWorldPoint(new Vector3(1, 0, camDistance)).x;
 
-        // Get ball's half-width (assuming a circular collider for simplicity)
-        _ballHalfWidth = GetComponent<CircleCollider2D>().bounds.extents.x;
+        // Get ball's half-width 
+        _playeCollider2D = transform.GetComponent<CircleCollider2D>();
+        _ballHalfWidth = _playeCollider2D.bounds.extents.x;
+        _isplayerAlive = true;
+
+        _playerAudioControl = transform.GetComponent<PlayerAudioControl>();
     }
 
     private void Start()
     {
         // Apply initial upward velocity for bouncing
         _rb.linearVelocity = new Vector2(0, _bounceForce);
+        GameOverUIPopUp.OnRestartButtonClickEvent += OnRestartButtonClickEvent;
+    }
+
+
+    private void OnDisable()
+    {
+
+        GameOverUIPopUp.OnRestartButtonClickEvent -= OnRestartButtonClickEvent;
     }
 
     private void Update()
     {
+        if (!_isplayerAlive)
+            return;
 
         float inputDirection = 0f;
 #if UNITY_EDITOR
@@ -62,6 +83,7 @@ public class Player : MonoBehaviour
             {
                 inputDirection = touch.deltaPosition.x * _touchSensitivity;
                 inputDirection = Mathf.Clamp(inputDirection, -1f, 1f); // Normalize swipe input
+                Debug.LogError("inputDirection|" + inputDirection +"|"+touch.deltaPosition.x );
             }
         }
 #endif
@@ -75,38 +97,72 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (!_isplayerAlive)
+            return;
         // Apply horizontal movement
         Vector2 velocity = _rb.linearVelocity;
         velocity.x = _direction * _horizontalSpeed;
         velocity.x = Mathf.Clamp(velocity.x, -_maxHorizontalSpeed, _maxHorizontalSpeed);
         _rb.linearVelocity = velocity;
+        // Debug.Log("FixedUpdate|" + _rb.linearVelocity);
+
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (!_isplayerAlive)
+            return;
+
+        float playerBottom = transform.position.y - _playeCollider2D.bounds.extents.y;
+        float platformTop = collision.bounds.center.y + collision.bounds.extents.y;
+
+        if (collision.gameObject.CompareTag("Spring"))
+        {
+            Debug.LogError("Spring|" + collision.transform.name + "|" + playerBottom + "|" + platformTop);
+        }
+
+        if (playerBottom < platformTop - 0.2f)
+            return;
+
         if (collision.gameObject.CompareTag("PlatForm"))
         {
-            // Bounce upward with consistent force
-            Vector2 velocity = _rb.linearVelocity;
-            velocity.y = _bounceForce;
-            _rb.linearVelocity = velocity;
-            _isGrounded = true;
+            //Debug.Log("playerBottom|" + playerBottom + "|" + platformTop);
+            if (!IsPlayerOnEdge(collision)) // allow a small margin
+            {
+                SetVelocity(_bounceForce);
+                _playerAudioControl.PlayJumpAudio();
+            }
         }
-        else if (collision.gameObject.CompareTag("Obstacle"))
+        else if (collision.gameObject.CompareTag("BreakPlatForm"))
         {
-            // Game Over logic (you can expand this)
-            Debug.Log("Game Over!");
-            Time.timeScale = 0; // Pause game for now
+            Debug.LogError("BreakPlatForm|");
+            collision.transform.GetComponent<PolygonCollider2D>().enabled = false;
+            Animator animtor = collision.transform.GetComponent<Animator>();
+            animtor.SetTrigger("Break");
+            _rb.linearVelocity = Vector2.zero;
+        }
+        else if (collision.gameObject.CompareTag("Spring"))
+        {
+            Debug.LogError("Spring|" + collision.transform.name);
+            Animator animtor = collision.transform.GetComponent<Animator>();
+            animtor.SetTrigger("HighJump");
+            SetVelocity(_springForce);
+            _playerAudioControl.PlayHighJumpAudio();
+
         }
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+
+    private void OnRestartButtonClickEvent(object sender, EventArgs e)
     {
-        if (collision.gameObject.CompareTag("PlatForm"))
-        {
-            _isGrounded = false;
-        }
+        Debug.Log("OnRestartButtonClickEvent player|");
+        SetPlayerStatus = true;
+        _playeCollider2D.enabled = true;
+        _rb.gravityScale = 1;
+        _rb.linearVelocity = new Vector2(0, _bounceForce);
     }
+
 
     private void ClampToScreen()
     {
@@ -115,14 +171,40 @@ public class Player : MonoBehaviour
         transform.position = pos;
     }
 
-    // Optional: Handle collectibles
-    private void OnTriggerEnter2D(Collider2D other)
+
+
+    private void SetVelocity(float yveloCity)
     {
-        if (other.CompareTag("Collectible"))
-        {
-            // Add score logic here
-            Debug.Log("Collected a coin!");
-            Destroy(other.gameObject); // Remove collectible
-        }
+        Vector2 velocity = _rb.linearVelocity;
+        velocity.y = yveloCity;
+        _rb.linearVelocity = velocity;
+        _isGrounded = true;
     }
+
+    private bool IsPlayerOnEdge(Collider2D collision)
+    {
+        // Debug.Log("Landed on top — bounce triggered.");
+        float platformLeft = collision.bounds.min.x;
+        float platformRight = collision.bounds.max.x;
+        float platformWidth = collision.bounds.size.x;
+
+        float playerCenterX = transform.position.x;
+        float distanceFromLeft = Mathf.Abs(playerCenterX - platformLeft);
+        float distanceFromRight = Mathf.Abs(playerCenterX - platformRight);
+        // Threshold: how close to the edge is considered an "edge"
+        float edgeThreshold = platformWidth * 0.05f;
+        if (distanceFromLeft < edgeThreshold || distanceFromRight < edgeThreshold)
+        {
+            Debug.Log("Player landed on the EDGE of the platform!");
+        }
+
+        return distanceFromLeft < edgeThreshold || distanceFromRight < edgeThreshold;
+    }
+
+    public bool GetPlayerStatus() => _isplayerAlive;
+    public bool SetPlayerStatus
+    {
+        set => _isplayerAlive = value;
+    }
+
 }

@@ -1,0 +1,6280 @@
+fileFormatVersion: 2
+guid: 4ca827ab387cca24fbe85ddeaf148082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6469903787413577596
+    second: game-tiles-soccer_0
+  - first:
+      213: -8043553002053729129
+    second: game-tiles-soccer_1
+  - first:
+      213: 7851308851097421220
+    second: game-tiles-soccer_2
+  - first:
+      213: -927221714190133987
+    second: game-tiles-soccer_3
+  - first:
+      213: -2038271618978617880
+    second: game-tiles-soccer_4
+  - first:
+      213: 8847408258861159962
+    second: game-tiles-soccer_5
+  - first:
+      213: -1757598222403932260
+    second: game-tiles-soccer_6
+  - first:
+      213: -3705070957590347932
+    second: game-tiles-soccer_7
+  - first:
+      213: 6011848299068693769
+    second: game-tiles-soccer_8
+  - first:
+      213: -6297592301462972055
+    second: game-tiles-soccer_9
+  - first:
+      213: -3095986950027603184
+    second: game-tiles-soccer_10
+  - first:
+      213: -4235426686094394189
+    second: game-tiles-soccer_11
+  - first:
+      213: 6914949971739289045
+    second: game-tiles-soccer_12
+  - first:
+      213: -3019259023876503730
+    second: game-tiles-soccer_13
+  - first:
+      213: 2481745628481266207
+    second: game-tiles-soccer_14
+  - first:
+      213: -4632525547833360367
+    second: game-tiles-soccer_15
+  - first:
+      213: -6819863073611527057
+    second: game-tiles-soccer_16
+  - first:
+      213: -5714867729422853742
+    second: game-tiles-soccer_17
+  - first:
+      213: 8748411651640150395
+    second: game-tiles-soccer_18
+  - first:
+      213: -6102177128135847104
+    second: game-tiles-soccer_19
+  - first:
+      213: 8059181494066582312
+    second: game-tiles-soccer_20
+  - first:
+      213: -7734853638052870419
+    second: game-tiles-soccer_21
+  - first:
+      213: -6792701881247324613
+    second: game-tiles-soccer_22
+  - first:
+      213: -6178241579581470909
+    second: game-tiles-soccer_23
+  - first:
+      213: 1594416556404870053
+    second: game-tiles-soccer_24
+  - first:
+      213: 1893781353832835530
+    second: game-tiles-soccer_25
+  - first:
+      213: -5567163056237869625
+    second: game-tiles-soccer_26
+  - first:
+      213: 8376811446003063165
+    second: game-tiles-soccer_27
+  - first:
+      213: 393103606751114056
+    second: game-tiles-soccer_28
+  - first:
+      213: -7747786831653316620
+    second: game-tiles-soccer_29
+  - first:
+      213: -8348045566865082960
+    second: game-tiles-soccer_30
+  - first:
+      213: 4721587222625003181
+    second: game-tiles-soccer_31
+  - first:
+      213: 1426013821105958770
+    second: game-tiles-soccer_32
+  - first:
+      213: 5769871443724078400
+    second: game-tiles-soccer_33
+  - first:
+      213: -8696067485387286553
+    second: game-tiles-soccer_34
+  - first:
+      213: -638412622210546336
+    second: game-tiles-soccer_35
+  - first:
+      213: -3474549647011900271
+    second: game-tiles-soccer_36
+  - first:
+      213: -4455689349276524565
+    second: game-tiles-soccer_37
+  - first:
+      213: 3164326136684571524
+    second: game-tiles-soccer_38
+  - first:
+      213: 4485755265887081241
+    second: game-tiles-soccer_39
+  - first:
+      213: -6302440966276569023
+    second: game-tiles-soccer_40
+  - first:
+      213: -3107674561718195714
+    second: game-tiles-soccer_41
+  - first:
+      213: 2159251093804786508
+    second: game-tiles-soccer_42
+  - first:
+      213: 6577804406693626582
+    second: game-tiles-soccer_43
+  - first:
+      213: -8760375575962763037
+    second: game-tiles-soccer_44
+  - first:
+      213: 3437322035664445073
+    second: game-tiles-soccer_45
+  - first:
+      213: 4326191725100965271
+    second: game-tiles-soccer_46
+  - first:
+      213: -7614248201499454141
+    second: game-tiles-soccer_47
+  - first:
+      213: 4718131807829557002
+    second: game-tiles-soccer_48
+  - first:
+      213: -3365732245446719801
+    second: game-tiles-soccer_49
+  - first:
+      213: -7650896060659113366
+    second: game-tiles-soccer_50
+  - first:
+      213: 5613899978597147337
+    second: game-tiles-soccer_51
+  - first:
+      213: -6422502253248655009
+    second: game-tiles-soccer_52
+  - first:
+      213: 8570646662271105961
+    second: game-tiles-soccer_53
+  - first:
+      213: 6007186413415746994
+    second: game-tiles-soccer_54
+  - first:
+      213: 2558047752824762212
+    second: game-tiles-soccer_55
+  - first:
+      213: -810132707571515282
+    second: game-tiles-soccer_56
+  - first:
+      213: -5451046057498689723
+    second: game-tiles-soccer_57
+  - first:
+      213: -6820875006735824891
+    second: game-tiles-soccer_58
+  - first:
+      213: -1152054339352702928
+    second: game-tiles-soccer_59
+  - first:
+      213: 3856840605629559458
+    second: game-tiles-soccer_60
+  - first:
+      213: -473520982876084160
+    second: game-tiles-soccer_61
+  - first:
+      213: -5781323890040390988
+    second: game-tiles-soccer_62
+  - first:
+      213: -2403132395849660527
+    second: game-tiles-soccer_63
+  - first:
+      213: 7250111842006385537
+    second: game-tiles-soccer_64
+  - first:
+      213: -5678513327749882162
+    second: game-tiles-soccer_65
+  - first:
+      213: -760673064144282654
+    second: game-tiles-soccer_66
+  - first:
+      213: 6024569405883120223
+    second: game-tiles-soccer_67
+  - first:
+      213: -5783582748319778440
+    second: game-tiles-soccer_68
+  - first:
+      213: 6952153937889520616
+    second: game-tiles-soccer_69
+  - first:
+      213: -3573078810143715912
+    second: game-tiles-soccer_70
+  - first:
+      213: -3495662743328594895
+    second: game-tiles-soccer_71
+  - first:
+      213: -4425342741420344599
+    second: game-tiles-soccer_72
+  - first:
+      213: -3552119296027587548
+    second: game-tiles-soccer_73
+  - first:
+      213: 8645990029835137882
+    second: game-tiles-soccer_74
+  - first:
+      213: -8284757522224842807
+    second: game-tiles-soccer_75
+  - first:
+      213: 1477083939442014327
+    second: game-tiles-soccer_76
+  - first:
+      213: 1385488399010903553
+    second: game-tiles-soccer_77
+  - first:
+      213: 5314064689698539836
+    second: game-tiles-soccer_78
+  - first:
+      213: 160912327832405999
+    second: game-tiles-soccer_79
+  - first:
+      213: 9061798321952497098
+    second: game-tiles-soccer_80
+  - first:
+      213: -6429238654970352861
+    second: game-tiles-soccer_81
+  - first:
+      213: -3136306476884527949
+    second: game-tiles-soccer_82
+  - first:
+      213: -5755873517019966332
+    second: game-tiles-soccer_83
+  - first:
+      213: 4700711802594227571
+    second: game-tiles-soccer_84
+  - first:
+      213: -6956711665554155594
+    second: game-tiles-soccer_85
+  - first:
+      213: -365564190925000091
+    second: game-tiles-soccer_86
+  - first:
+      213: -5451656677809724990
+    second: game-tiles-soccer_87
+  - first:
+      213: 1199571942797796824
+    second: game-tiles-soccer_88
+  - first:
+      213: 3018994974171770916
+    second: game-tiles-soccer_89
+  - first:
+      213: -1328516679900329607
+    second: game-tiles-soccer_90
+  - first:
+      213: 7448282841098009561
+    second: game-tiles-soccer_91
+  - first:
+      213: -2189999724993557867
+    second: game-tiles-soccer_92
+  - first:
+      213: -3661367658104320510
+    second: game-tiles-soccer_93
+  - first:
+      213: 3037473572851146834
+    second: game-tiles-soccer_94
+  - first:
+      213: 82194512077809891
+    second: game-tiles-soccer_95
+  - first:
+      213: 5447582193143729841
+    second: game-tiles-soccer_96
+  - first:
+      213: 6411994828906274531
+    second: game-tiles-soccer_97
+  - first:
+      213: 2486515045333993647
+    second: game-tiles-soccer_98
+  - first:
+      213: -4281923687467424648
+    second: game-tiles-soccer_99
+  - first:
+      213: 1891610809671521864
+    second: game-tiles-soccer_100
+  - first:
+      213: -7302303057943113425
+    second: game-tiles-soccer_101
+  - first:
+      213: 6289681677617194095
+    second: game-tiles-soccer_102
+  - first:
+      213: -3322113267543134543
+    second: game-tiles-soccer_103
+  - first:
+      213: 7541578153722075048
+    second: game-tiles-soccer_104
+  - first:
+      213: -7820545984066675607
+    second: game-tiles-soccer_105
+  - first:
+      213: -5216438200505411424
+    second: game-tiles-soccer_106
+  - first:
+      213: 6604072949023418226
+    second: game-tiles-soccer_107
+  - first:
+      213: -2869951478125330741
+    second: game-tiles-soccer_108
+  - first:
+      213: 3435585360852216682
+    second: game-tiles-soccer_109
+  - first:
+      213: 8206749324679467180
+    second: game-tiles-soccer_110
+  - first:
+      213: -2420343415076388133
+    second: game-tiles-soccer_111
+  - first:
+      213: 325365925871982653
+    second: game-tiles-soccer_112
+  - first:
+      213: 3831164779763772557
+    second: game-tiles-soccer_113
+  - first:
+      213: -7724684982315828006
+    second: game-tiles-soccer_114
+  - first:
+      213: 4905558693181012838
+    second: game-tiles-soccer_115
+  - first:
+      213: -2381080011907514450
+    second: game-tiles-soccer_116
+  - first:
+      213: 4431098090933869888
+    second: game-tiles-soccer_117
+  - first:
+      213: -7487919465972603879
+    second: game-tiles-soccer_118
+  - first:
+      213: -1175703568695832729
+    second: game-tiles-soccer_119
+  - first:
+      213: -1970692639739306197
+    second: game-tiles-soccer_120
+  - first:
+      213: 1109146549953918773
+    second: game-tiles-soccer_121
+  - first:
+      213: -1154541002528836392
+    second: game-tiles-soccer_122
+  - first:
+      213: 2929936423879098022
+    second: game-tiles-soccer_123
+  - first:
+      213: -4545877563614880452
+    second: game-tiles-soccer_124
+  - first:
+      213: -8720803637383272539
+    second: game-tiles-soccer_125
+  - first:
+      213: 2727247785160949605
+    second: game-tiles-soccer_126
+  - first:
+      213: 544767867401530051
+    second: game-tiles-soccer_127
+  - first:
+      213: -4275550746009049504
+    second: game-tiles-soccer_128
+  - first:
+      213: 1638080556929621585
+    second: game-tiles-soccer_129
+  - first:
+      213: -5383738465481648303
+    second: game-tiles-soccer_130
+  - first:
+      213: 2404027942438254035
+    second: game-tiles-soccer_131
+  - first:
+      213: 2077685449062386422
+    second: game-tiles-soccer_132
+  - first:
+      213: 9104212314499424403
+    second: game-tiles-soccer_133
+  - first:
+      213: 8078902865273759486
+    second: game-tiles-soccer_134
+  - first:
+      213: 7870905282263575219
+    second: game-tiles-soccer_135
+  - first:
+      213: 73136352029551400
+    second: game-tiles-soccer_136
+  - first:
+      213: -7168308973657453906
+    second: game-tiles-soccer_137
+  - first:
+      213: -251071691260996770
+    second: game-tiles-soccer_138
+  - first:
+      213: -89022206042722316
+    second: game-tiles-soccer_139
+  - first:
+      213: -6098735574387749769
+    second: game-tiles-soccer_140
+  - first:
+      213: -7281844621784737850
+    second: game-tiles-soccer_141
+  - first:
+      213: -1957864062644034890
+    second: game-tiles-soccer_142
+  - first:
+      213: -3411372797758212183
+    second: game-tiles-soccer_143
+  - first:
+      213: -6737302081215722236
+    second: game-tiles-soccer_144
+  - first:
+      213: 8446217330525028709
+    second: game-tiles-soccer_145
+  - first:
+      213: 3481620062477016780
+    second: game-tiles-soccer_146
+  - first:
+      213: -7701564783982228326
+    second: game-tiles-soccer_147
+  - first:
+      213: -6086682620324356927
+    second: game-tiles-soccer_148
+  - first:
+      213: 1519020350515821820
+    second: game-tiles-soccer_149
+  - first:
+      213: 6650141990705390219
+    second: game-tiles-soccer_150
+  - first:
+      213: -6308916385352393601
+    second: game-tiles-soccer_151
+  - first:
+      213: -5726287177281280531
+    second: game-tiles-soccer_152
+  - first:
+      213: 6971530004961644235
+    second: game-tiles-soccer_153
+  - first:
+      213: 8395087388407520138
+    second: game-tiles-soccer_154
+  - first:
+      213: 785107244736744402
+    second: game-tiles-soccer_155
+  - first:
+      213: -4379660724820002276
+    second: game-tiles-soccer_156
+  - first:
+      213: -5707418250823867034
+    second: game-tiles-soccer_157
+  - first:
+      213: -1721352380093607123
+    second: game-tiles-soccer_158
+  - first:
+      213: 7079124630817856984
+    second: game-tiles-soccer_159
+  - first:
+      213: -6987317464394775573
+    second: game-tiles-soccer_160
+  - first:
+      213: -8450448256146801721
+    second: game-tiles-soccer_161
+  - first:
+      213: -8979486151377244198
+    second: game-tiles-soccer_162
+  - first:
+      213: -5651369144804832665
+    second: game-tiles-soccer_163
+  - first:
+      213: -512432647188988258
+    second: game-tiles-soccer_164
+  - first:
+      213: 8508548684045144068
+    second: game-tiles-soccer_165
+  - first:
+      213: -3101950197636183007
+    second: game-tiles-soccer_166
+  - first:
+      213: 5672738327042170588
+    second: game-tiles-soccer_167
+  - first:
+      213: -6149416889545151686
+    second: game-tiles-soccer_168
+  - first:
+      213: -7804820265197522444
+    second: game-tiles-soccer_169
+  - first:
+      213: 1892541341044880738
+    second: game-tiles-soccer_170
+  - first:
+      213: -1271924479777261805
+    second: game-tiles-soccer_171
+  - first:
+      213: -7289703302511264865
+    second: game-tiles-soccer_172
+  - first:
+      213: 3882956432207299506
+    second: game-tiles-soccer_173
+  - first:
+      213: -9060642293410871172
+    second: game-tiles-soccer_174
+  - first:
+      213: 1985353650895049829
+    second: game-tiles-soccer_175
+  - first:
+      213: -1689958450755387290
+    second: game-tiles-soccer_176
+  - first:
+      213: 2683265982942529277
+    second: game-tiles-soccer_177
+  - first:
+      213: 585515396253366315
+    second: game-tiles-soccer_178
+  - first:
+      213: 6857975778991996969
+    second: game-tiles-soccer_179
+  - first:
+      213: 8386319517092183324
+    second: game-tiles-soccer_180
+  - first:
+      213: 1919746859592741118
+    second: game-tiles-soccer_181
+  - first:
+      213: -1600135809057929038
+    second: game-tiles-soccer_182
+  - first:
+      213: -7841288952192362087
+    second: game-tiles-soccer_183
+  - first:
+      213: -3878331603875267098
+    second: game-tiles-soccer_184
+  - first:
+      213: -7582873190558252370
+    second: game-tiles-soccer_185
+  - first:
+      213: 6785017309709118736
+    second: game-tiles-soccer_186
+  - first:
+      213: 1424558293086347109
+    second: game-tiles-soccer_187
+  - first:
+      213: -4645354893695387474
+    second: game-tiles-soccer_188
+  - first:
+      213: -4914572254920435873
+    second: game-tiles-soccer_189
+  - first:
+      213: 7621341998038864862
+    second: game-tiles-soccer_190
+  - first:
+      213: -6943836631949337817
+    second: game-tiles-soccer_191
+  - first:
+      213: 1928940163889553193
+    second: game-tiles-soccer_192
+  - first:
+      213: -3767340370480706153
+    second: game-tiles-soccer_193
+  - first:
+      213: 4765200754119881602
+    second: game-tiles-soccer_194
+  - first:
+      213: -2155968968119665790
+    second: game-tiles-soccer_195
+  - first:
+      213: -6980993217844000778
+    second: game-tiles-soccer_196
+  - first:
+      213: -224742997891501206
+    second: game-tiles-soccer_197
+  - first:
+      213: -3550890160877528639
+    second: game-tiles-soccer_198
+  - first:
+      213: -2082227912092499625
+    second: game-tiles-soccer_199
+  - first:
+      213: -4244681143113607274
+    second: game-tiles-soccer_200
+  - first:
+      213: 8815919744250293417
+    second: game-tiles-soccer_201
+  - first:
+      213: -3719209926565544487
+    second: game-tiles-soccer_202
+  - first:
+      213: 7398170777494127021
+    second: game-tiles-soccer_203
+  - first:
+      213: -616088902929459994
+    second: game-tiles-soccer_204
+  - first:
+      213: -3509938963564109015
+    second: game-tiles-soccer_205
+  - first:
+      213: 8114806087687310207
+    second: game-tiles-soccer_206
+  - first:
+      213: -7117298570816405615
+    second: game-tiles-soccer_207
+  - first:
+      213: -1349065571147713945
+    second: game-tiles-soccer_208
+  - first:
+      213: 3301137873782374742
+    second: game-tiles-soccer_209
+  - first:
+      213: 4321628758856465901
+    second: game-tiles-soccer_210
+  - first:
+      213: 5956960355304760477
+    second: game-tiles-soccer_211
+  - first:
+      213: -4417296636653901236
+    second: game-tiles-soccer_212
+  - first:
+      213: 5259724468006623081
+    second: game-tiles-soccer_213
+  - first:
+      213: -5559199702910293430
+    second: game-tiles-soccer_214
+  - first:
+      213: 8158701025338250058
+    second: game-tiles-soccer_215
+  - first:
+      213: -8174859834821417751
+    second: game-tiles-soccer_216
+  - first:
+      213: 5843247640346443876
+    second: game-tiles-soccer_217
+  - first:
+      213: -4202828317500447499
+    second: game-tiles-soccer_218
+  - first:
+      213: 6985563370808544745
+    second: game-tiles-soccer_219
+  - first:
+      213: 585169243196223371
+    second: game-tiles-soccer_220
+  - first:
+      213: 7980350079889898315
+    second: game-tiles-soccer_221
+  - first:
+      213: -4213127867958496304
+    second: game-tiles-soccer_222
+  - first:
+      213: 6884762824044315234
+    second: game-tiles-soccer_223
+  - first:
+      213: 8689928649462468178
+    second: game-tiles-soccer_224
+  - first:
+      213: -3427542798694073222
+    second: game-tiles-soccer_225
+  - first:
+      213: -6269380556759735996
+    second: game-tiles-soccer_226
+  - first:
+      213: 9166260049033192576
+    second: game-tiles-soccer_227
+  - first:
+      213: 7025166752925992385
+    second: game-tiles-soccer_228
+  - first:
+      213: -6303608292501961867
+    second: game-tiles-soccer_229
+  - first:
+      213: 8209478562628491044
+    second: game-tiles-soccer_230
+  - first:
+      213: 7529041878051720329
+    second: game-tiles-soccer_231
+  - first:
+      213: 7957430992785373975
+    second: game-tiles-soccer_232
+  - first:
+      213: 1941298480634236423
+    second: game-tiles-soccer_233
+  - first:
+      213: -5905999739155107880
+    second: game-tiles-soccer_234
+  - first:
+      213: -4760158045548228693
+    second: game-tiles-soccer_235
+  - first:
+      213: -1563476516657567630
+    second: game-tiles-soccer_236
+  - first:
+      213: -7845159722504888461
+    second: game-tiles-soccer_237
+  - first:
+      213: -5070713798374860986
+    second: game-tiles-soccer_238
+  - first:
+      213: -6590566743411168248
+    second: game-tiles-soccer_239
+  - first:
+      213: -7431372898339712110
+    second: game-tiles-soccer_240
+  - first:
+      213: -6020724728421509541
+    second: game-tiles-soccer_241
+  - first:
+      213: 7357765438626697498
+    second: game-tiles-soccer_242
+  - first:
+      213: 3559653869628212789
+    second: game-tiles-soccer_243
+  - first:
+      213: -1924418812887660306
+    second: game-tiles-soccer_244
+  - first:
+      213: 2138631386284931348
+    second: game-tiles-soccer_245
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-tiles-soccer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480624cc8c84636a0800000000000000
+      internalID: -6469903787413577596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 421
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948f84492f8f5090800000000000000
+      internalID: -8043553002053729129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 466
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5ca835dc375fc60800000000000000
+      internalID: 7851308851097421220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 466
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d151ba973c8d123f0800000000000000
+      internalID: -927221714190133987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 466
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e40303ca96b3e0800000000000000
+      internalID: -2038271618978617880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 466
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d6449fee48ca70800000000000000
+      internalID: 8847408258861159962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 465
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f61c79ab1cb97e0800000000000000
+      internalID: -1757598222403932260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 476
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ff5392891f49cc0800000000000000
+      internalID: -3705070957590347932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 455
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d96850d206e6350800000000000000
+      internalID: 6011848299068693769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 455
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969901bfa257a98a0800000000000000
+      internalID: -6297592301462972055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 453
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0131c5ea548d805d0800000000000000
+      internalID: -3095986950027603184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 455
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc32278eddb835c0800000000000000
+      internalID: -4235426686094394189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 455
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d52e11cc56d6ff50800000000000000
+      internalID: 6914949971739289045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_13
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 455
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c2fc1aef6916d0800000000000000
+      internalID: -3019259023876503730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f122180108ee07220800000000000000
+      internalID: 2481745628481266207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1108874fe86f5bfb0800000000000000
+      internalID: -4632525547833360367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 420
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc490faaafa51a0800000000000000
+      internalID: -6819863073611527057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 394
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29958692416b0b0b0800000000000000
+      internalID: -5714867729422853742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7946eccb0a986970800000000000000
+      internalID: 8748411651640150395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 431
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04313f09b36b05ba0800000000000000
+      internalID: -6102177128135847104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 442
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8239d369ed6f7df60800000000000000
+      internalID: 8059181494066582312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de68832e89748a490800000000000000
+      internalID: -7734853638052870419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 444
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b362027d0a97bb1a0800000000000000
+      internalID: -6792701881247324613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 397
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478f70640a724aa0800000000000000
+      internalID: -6178241579581470909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 397
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab83841961802610800000000000000
+      internalID: 1594416556404870053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_25
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 399
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e67d8b10184a10800000000000000
+      internalID: 1893781353832835530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 399
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5834a42b67db2b0800000000000000
+      internalID: -5567163056237869625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_27
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 399
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79507db0a9604470800000000000000
+      internalID: 8376811446003063165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433358c5a5947500800000000000000
+      internalID: 393103606751114056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7dad71de45a7490800000000000000
+      internalID: -7747786831653316620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 421
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57b3a69c8c52c80800000000000000
+      internalID: -8348045566865082960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 421
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6269c1092768140800000000000000
+      internalID: 4721587222625003181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 421
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f61d3d3083ac310800000000000000
+      internalID: 1426013821105958770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 393
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d08da0283b21050800000000000000
+      internalID: 5769871443724078400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_34
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 421
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e79aae12bc515780800000000000000
+      internalID: -8696067485387286553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 420
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c3014a17e327f0800000000000000
+      internalID: -638412622210546336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 306
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949567418be7cfc0800000000000000
+      internalID: -3474549647011900271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef91e2e4263a22c0800000000000000
+      internalID: -4455689349276524565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 329
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b61922bd1f9eb20800000000000000
+      internalID: 3164326136684571524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 399
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9139984d5aa904e30800000000000000
+      internalID: 4485755265887081241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 399
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148273b355b3988a0800000000000000
+      internalID: -6302440966276569023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_41
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 400
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e44783725fd4d0800000000000000
+      internalID: -3107674561718195714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43ab1bfd6337fd10800000000000000
+      internalID: 2159251093804786508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 371
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d209f6d14e094b50800000000000000
+      internalID: 6577804406693626582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 371
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e04bbff3d4ec6680800000000000000
+      internalID: -8760375575962763037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 372
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ed6620e22d3bf20800000000000000
+      internalID: 3437322035664445073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d90ece378b90c30800000000000000
+      internalID: 4326191725100965271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 371
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d7fd4a91c45690800000000000000
+      internalID: -7614248201499454141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff629a1eb2a7140800000000000000
+      internalID: 4718131807829557002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 371
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6021dea548a41d0800000000000000
+      internalID: -3365732245446719801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 371
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626afaa19e82d590800000000000000
+      internalID: -7650896060659113366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 371
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c22bdc694498ed40800000000000000
+      internalID: 5613899978597147337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_52
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 371
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d7f18a30bed6a0800000000000000
+      internalID: -6422502253248655009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab7e08eabd01f670800000000000000
+      internalID: 8570646662271105961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 371
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc23f2730dd5350800000000000000
+      internalID: 6007186413415746994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 371
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f2b99c0e2008320800000000000000
+      internalID: 2558047752824762212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_56
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 366
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6046404894d1c4f0800000000000000
+      internalID: -810132707571515282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 371
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3f78dd7ef954b0800000000000000
+      internalID: -5451046057498689723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 371
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508cb26e1526751a0800000000000000
+      internalID: -6820875006735824891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_59
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 368
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305fe4aea41300f0800000000000000
+      internalID: -1152054339352702928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_60
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 340
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23adda810468530800000000000000
+      internalID: 3856840605629559458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_61
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 341
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0482af5cc27bd69f0800000000000000
+      internalID: -473520982876084160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_62
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 340
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab9a28d8c94cfa0800000000000000
+      internalID: -5781323890040390988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_63
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 342
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197c52d71db56aed0800000000000000
+      internalID: -2403132395849660527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_64
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 341
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c4acbe429d9460800000000000000
+      internalID: 7250111842006385537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9527e63ed131b0800000000000000
+      internalID: -5678513327749882162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 329
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebd87dd0eb8175f0800000000000000
+      internalID: -760673064144282654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 345
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a795284f19b9350800000000000000
+      internalID: 6024569405883120223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_68
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879725512269cbfa0800000000000000
+      internalID: -5783582748319778440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebecb32c230b7060800000000000000
+      internalID: 6952153937889520616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_70
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 344
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd88eec0cfd96ec0800000000000000
+      internalID: -3573078810143715912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 344
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e4597149ec7fc0800000000000000
+      internalID: -3495662743328594895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 345
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea794029360692c0800000000000000
+      internalID: -4425342741420344599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0778f15654bec0800000000000000
+      internalID: -3552119296027587548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5374ebaf1abcf770800000000000000
+      internalID: 8645990029835137882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 344
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7fa859de0a60d80800000000000000
+      internalID: -8284757522224842807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 344
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77830e95408af7410800000000000000
+      internalID: 1477083939442014327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 344
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063877bb5e3a3310800000000000000
+      internalID: 1385488399010903553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c398dee1ea95fb940800000000000000
+      internalID: 5314064689698539836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 344
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe78e6cd8ecab3200800000000000000
+      internalID: 160912327832405999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 344
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd9536ff89f1cd70800000000000000
+      internalID: 9061798321952497098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 345
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b2842c181c6c6a0800000000000000
+      internalID: -6429238654970352861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_82
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b47a8a40e99974d0800000000000000
+      internalID: -3136306476884527949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 344
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48452fd38870f10b0800000000000000
+      internalID: -5755873517019966332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 344
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757d11aa784c3140800000000000000
+      internalID: 4700711802594227571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_85
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b714d1399bc47f90800000000000000
+      internalID: -6956711665554155594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_86
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562ff412e414deaf0800000000000000
+      internalID: -365564190925000091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 345
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1e3c9b223d754b0800000000000000
+      internalID: -5451656677809724990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_88
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 349
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5ecfc835cb5a010800000000000000
+      internalID: 1199571942797796824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 309
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420b2360fef95e920800000000000000
+      internalID: 3018994974171770916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_90
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 312
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9790c505e19209de0800000000000000
+      internalID: -1328516679900329607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_91
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 319
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb84208cd9d5760800000000000000
+      internalID: 7448282841098009561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a4e8d6ade8b91e0800000000000000
+      internalID: -2189999724993557867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 322
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e86928385303dc0800000000000000
+      internalID: -3661367658104320510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 321
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ed6c0f16472a20800000000000000
+      internalID: 3037473572851146834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 323
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e862e62973042100800000000000000
+      internalID: 82194512077809891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 324
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be43136423b99b40800000000000000
+      internalID: 5447582193143729841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_97
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 325
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee999e135bfbf850800000000000000
+      internalID: 6411994828906274531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_98
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 330
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80cc57240e18220800000000000000
+      internalID: 2486515045333993647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 293
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8746c25c71d8394c0800000000000000
+      internalID: -4281923687467424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_100
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 283
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84692cb520a504a10800000000000000
+      internalID: 1891610809671521864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_101
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 284
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f215d0dde0209aa90800000000000000
+      internalID: -7302303057943113425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_102
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 284
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e7a06920794750800000000000000
+      internalID: 6289681677617194095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_103
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 286
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beaa70a59b75e1d0800000000000000
+      internalID: -3322113267543134543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_104
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 283
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75372bf5119a860800000000000000
+      internalID: 7541578153722075048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c191eccd6d77390800000000000000
+      internalID: -7820545984066675607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d812381d7b97b0800000000000000
+      internalID: -5216438200505411424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 276
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277ae457b5166ab50800000000000000
+      internalID: 6604072949023418226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_108
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 316
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7bb71652eb28d0800000000000000
+      internalID: -2869951478125330741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_109
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 316
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6be025eea6adaf20800000000000000
+      internalID: 3435585360852216682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05232970b34e170800000000000000
+      internalID: 8206749324679467180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 248
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd28aedcc76396ed0800000000000000
+      internalID: -2420343415076388133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_112
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 290
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d389d91f59ee38400800000000000000
+      internalID: 325365925871982653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_113
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 290
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8caecd91180b2530800000000000000
+      internalID: 3831164779763772557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_114
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 290
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc354b8fe76cc490800000000000000
+      internalID: -7724684982315828006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_115
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 290
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b32e304ab041440800000000000000
+      internalID: 4905558693181012838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf387c3854b4fed0800000000000000
+      internalID: -2381080011907514450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 285
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d560b9c3c6e7d30800000000000000
+      internalID: 4431098090933869888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_118
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 264
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91468fb1be0951890800000000000000
+      internalID: -7487919465972603879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc9ba55df0fafe0800000000000000
+      internalID: -1175703568695832729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f9cde3c71b6a4e0800000000000000
+      internalID: -1970692639739306197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_121
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 272
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5377ad129ea746f00800000000000000
+      internalID: 1109146549953918773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_122
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 272
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d435a1431f3affe0800000000000000
+      internalID: -1154541002528836392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_123
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 272
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aebacf67a939a820800000000000000
+      internalID: 2929936423879098022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_124
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 284
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d1154e07cc9e0c0800000000000000
+      internalID: -4545877563614880452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_125
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 278
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7e5ddeb4b79f680800000000000000
+      internalID: -8720803637383272539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_126
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 230
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f3df8396129d520800000000000000
+      internalID: 2727247785160949605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cae3853d776f8700800000000000000
+      internalID: 544767867401530051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_128
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 218
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06669f4df313aa4c0800000000000000
+      internalID: -4275550746009049504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_129
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 254
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e934d6691abb610800000000000000
+      internalID: 1638080556929621585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_130
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1571c51d36e1945b0800000000000000
+      internalID: -5383738465481648303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_131
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 225
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d535233da2dc5120800000000000000
+      internalID: 2404027942438254035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_132
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 226
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8c5a68eb65dc10800000000000000
+      internalID: 2077685449062386422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_133
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 225
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a9752dd8a85e70800000000000000
+      internalID: 9104212314499424403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_134
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 225
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef627832a570e1070800000000000000
+      internalID: 8078902865273759486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae01207a21b3d60800000000000000
+      internalID: 7870905282263575219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba3eaef15d30100800000000000000
+      internalID: 73136352029551400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_137
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa07e0c7fc058c90800000000000000
+      internalID: -7168308973657453906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_138
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e535b3580a3048cf0800000000000000
+      internalID: -251071691260996770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_139
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 173
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffa3b776cab3cef0800000000000000
+      internalID: -89022206042722316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_140
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c849dbe40fc5ba0800000000000000
+      internalID: -6098735574387749769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79ee8b5e0b1fa90800000000000000
+      internalID: -7281844621784737850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_142
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2699b120544d4e0800000000000000
+      internalID: -1957864062644034890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_143
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 210
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7f031c38e58a0d0800000000000000
+      internalID: -3411372797758212183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_144
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 168
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d03a0f37b4082a0800000000000000
+      internalID: -6737302081215722236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_145
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 168
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56141b189edf63570800000000000000
+      internalID: 8446217330525028709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_146
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 170
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cced0da1003315030800000000000000
+      internalID: 3481620062477016780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_147
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 169
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cc41432ab8e1590800000000000000
+      internalID: -7701564783982228326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_148
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 169
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccd50bc762c78ba0800000000000000
+      internalID: -6086682620324356927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 182
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb51fe5f4a41510800000000000000
+      internalID: 1519020350515821820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_150
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8267e518ec0a4c50800000000000000
+      internalID: 6650141990705390219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_151
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 170
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cdd6d39f93278a0800000000000000
+      internalID: -6308916385352393601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de56644c6242880b0800000000000000
+      internalID: -5726287177281280531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_153
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 185
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce47be4a99dfb060800000000000000
+      internalID: 6971530004961644235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_154
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 186
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b546c2087518470800000000000000
+      internalID: 8395087388407520138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_155
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 170
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8e1121e245ea00800000000000000
+      internalID: 785107244736744402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_156
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 107
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1abf5476c15833c0800000000000000
+      internalID: -4379660724820002276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_157
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665ef0f075d2bc0b0800000000000000
+      internalID: -5707418250823867034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_158
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 143
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d235f3361278c18e0800000000000000
+      internalID: -1721352380093607123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_159
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dddd9c485a1e3260800000000000000
+      internalID: 7079124630817856984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_160
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3cdd959cf080f90800000000000000
+      internalID: -6987317464394775573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_161
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbfc8b551af9ba80800000000000000
+      internalID: -8450448256146801721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_162
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfae91bbe4726380800000000000000
+      internalID: -8979486151377244198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_163
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 157
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0e4d74bd4291b0800000000000000
+      internalID: -5651369144804832665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_164
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 145
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ebcfce83973e8f0800000000000000
+      internalID: -512432647188988258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_165
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 145
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400d0aaa2ff641670800000000000000
+      internalID: 8508548684045144068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_166
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 145
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c41f6eab8a3f4d0800000000000000
+      internalID: -3101950197636183007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_167
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde9717f37d99be40800000000000000
+      internalID: 5672738327042170588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_168
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 145
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bafd28be1e8aaa0800000000000000
+      internalID: -6149416889545151686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_169
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 145
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1b12d0255bfa390800000000000000
+      internalID: -7804820265197522444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_170
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 145
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b8b39258a34a10800000000000000
+      internalID: 1892541341044880738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_171
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 105
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b0c1bc67395ee0800000000000000
+      internalID: -1271924479777261805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf2d70875c5da90800000000000000
+      internalID: -7289703302511264865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_173
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c8046d4803e530800000000000000
+      internalID: 3882956432207299506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c784d58e6d1224280800000000000000
+      internalID: -9060642293410871172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_175
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564df1b60a46d8b10800000000000000
+      internalID: 1985353650895049829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_176
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604e892ebf0c88e0800000000000000
+      internalID: -1689958450755387290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_177
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6cd27e130ec3520800000000000000
+      internalID: 2683265982942529277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_178
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b283434962b202800800000000000000
+      internalID: 585515396253366315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_179
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 110
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9200d09c2ac6c2f50800000000000000
+      internalID: 6857975778991996969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_180
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d743d0b21326470800000000000000
+      internalID: 8386319517092183324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 118
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef072b8f89f44aa10800000000000000
+      internalID: 1919746859592741118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_182
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b848b4a5fc2bc9e0800000000000000
+      internalID: -1600135809057929038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_183
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 120
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999116f2e352e2390800000000000000
+      internalID: -7841288952192362087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_184
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 121
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf7dd54f56d2ac0800000000000000
+      internalID: -3878331603875267098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_185
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 121
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea241fb420934c690800000000000000
+      internalID: -7582873190558252370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_186
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 122
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01da61c6b49392e50800000000000000
+      internalID: 6785017309709118736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_187
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 122
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f9f3d483c05c310800000000000000
+      internalID: 1424558293086347109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_188
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 122
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8f9a91652688fb0800000000000000
+      internalID: -4645354893695387474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_189
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 124
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f571a7a929eebcbb0800000000000000
+      internalID: -4914572254920435873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_190
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 115
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed35fd8ea2274c960800000000000000
+      internalID: 7621341998038864862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_191
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1
+        width: 134
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b905e8f5982af90800000000000000
+      internalID: -6943836631949337817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_192
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 73
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fde9debd8f4ca10800000000000000
+      internalID: 1928940163889553193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_193
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 73
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d428da4e7b7bbc0800000000000000
+      internalID: -3767340370480706153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_194
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 93
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2833db8b6d4612240800000000000000
+      internalID: 4765200754119881602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_195
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b367475a57412e0800000000000000
+      internalID: -2155968968119665790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_196
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74ffeb7a78e1f90800000000000000
+      internalID: -6980993217844000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_197
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63bbe42f6d81ecf0800000000000000
+      internalID: -224742997891501206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_198
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 65
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9177c4634b8bec0800000000000000
+      internalID: -3550890160877528639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_199
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 68
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c25efeb07a13e0800000000000000
+      internalID: -2082227912092499625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_200
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6971ae75dfcd715c0800000000000000
+      internalID: -4244681143113607274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_201
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 70
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac24647c40785a70800000000000000
+      internalID: 8815919744250293417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_202
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 65
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd34f9e646b26cc0800000000000000
+      internalID: -3719209926565544487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_203
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 75
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1863cff159ba660800000000000000
+      internalID: 7398170777494127021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_204
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e454de28663377f0800000000000000
+      internalID: -616088902929459994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_205
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 77
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923657deb113a4fc0800000000000000
+      internalID: -3509938963564109015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_206
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 76
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b87c584259d9070800000000000000
+      internalID: 8114806087687310207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_207
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 74
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb71ea8a64a3d90800000000000000
+      internalID: -7117298570816405615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_208
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 77
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f70db208274de0800000000000000
+      internalID: -1349065571147713945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_209
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 54
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510361f76fffcd20800000000000000
+      internalID: 3301137873782374742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_210
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 61
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded70ce857289fb30800000000000000
+      internalID: 4321628758856465901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_211
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94660fb1ef5ba250800000000000000
+      internalID: 5956960355304760477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_212
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a67b0ec1c92b2c0800000000000000
+      internalID: -4417296636653901236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_213
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 43
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96717f3598b4ef840800000000000000
+      internalID: 5259724468006623081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_214
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 58
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a2398f251c9d2b0800000000000000
+      internalID: -5559199702910293430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_215
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 29
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d6eb1b57893170800000000000000
+      internalID: 8158701025338250058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_216
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 31
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46cd0ea401d8e80800000000000000
+      internalID: -8174859834821417751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_217
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4604d7125c2671150800000000000000
+      internalID: 5843247640346443876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_218
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 34
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ee6ba9ed8ca5c0800000000000000
+      internalID: -4202828317500447499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_219
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 35
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed0609efd4b1f060800000000000000
+      internalID: 6985563370808544745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_220
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 36
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fe13a8350fe1800800000000000000
+      internalID: 585169243196223371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_221
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 38
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf81fad16efbe60800000000000000
+      internalID: 7980350079889898315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_222
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3f805b686f785c0800000000000000
+      internalID: -4213127867958496304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_223
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620af9bf479b8f50800000000000000
+      internalID: 6884762824044315234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_224
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e43b2c014d89870800000000000000
+      internalID: 8689928649462468178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_225
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c34670cfbee60d0800000000000000
+      internalID: -3427542798694073222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_226
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4416898a99faef8a0800000000000000
+      internalID: -6269380556759735996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_227
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846a7d13f8153f70800000000000000
+      internalID: 9166260049033192576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_228
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 30
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c90cd0f76e7160800000000000000
+      internalID: 7025166752925992385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_229
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 33
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c63ae7a51588a0800000000000000
+      internalID: -6303608292501961867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_230
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d7acc14dede170800000000000000
+      internalID: 8209478562628491044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_231
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c005092b78c7860800000000000000
+      internalID: 7529041878051720329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_232
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 28
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf7a1e3597e6e60800000000000000
+      internalID: 7957430992785373975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_233
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 32
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e8535cea0e0fa10800000000000000
+      internalID: 1941298480634236423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_234
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2c10578ca90ea0800000000000000
+      internalID: -5905999739155107880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_235
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf416c5a7580fdb0800000000000000
+      internalID: -4760158045548228693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_236
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278e5f9446a6d4ae0800000000000000
+      internalID: -1563476516657567630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_237
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fd4ed3cc4602390800000000000000
+      internalID: -7845159722504888461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_238
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d13a8aa431a9b0800000000000000
+      internalID: -5070713798374860986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_239
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6976177a9984a0800000000000000
+      internalID: -6590566743411168248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_240
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2931ff8d8b57ed890800000000000000
+      internalID: -7431372898339712110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_241
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56960832c6127ca0800000000000000
+      internalID: -6020724728421509541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_242
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119dfdeea80c1660800000000000000
+      internalID: 7357765438626697498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_243
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 16
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c886a55e666130800000000000000
+      internalID: 3559653869628212789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_244
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee880c229471b45e0800000000000000
+      internalID: -1924418812887660306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-soccer_245
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b3053ae1fdad10800000000000000
+      internalID: 2138631386284931348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

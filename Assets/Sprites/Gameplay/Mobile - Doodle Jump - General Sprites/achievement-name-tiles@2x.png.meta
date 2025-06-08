@@ -1,0 +1,1805 @@
+fileFormatVersion: 2
+guid: 9b0b4765dda645441afd1ab081ae114d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7117062204516043455
+    second: achievement-name-tiles@2x_0
+  - first:
+      213: 7555322133816899651
+    second: achievement-name-tiles@2x_1
+  - first:
+      213: -3950290523381129177
+    second: achievement-name-tiles@2x_2
+  - first:
+      213: -8222395329617733502
+    second: achievement-name-tiles@2x_3
+  - first:
+      213: 3925995123271143807
+    second: achievement-name-tiles@2x_4
+  - first:
+      213: 5687924196404420019
+    second: achievement-name-tiles@2x_5
+  - first:
+      213: -3095284382830896923
+    second: achievement-name-tiles@2x_6
+  - first:
+      213: 8415449576586869214
+    second: achievement-name-tiles@2x_7
+  - first:
+      213: 4090012603835422306
+    second: achievement-name-tiles@2x_8
+  - first:
+      213: 3010639392929877899
+    second: achievement-name-tiles@2x_9
+  - first:
+      213: -5192050228861741691
+    second: achievement-name-tiles@2x_10
+  - first:
+      213: -6790695397694513037
+    second: achievement-name-tiles@2x_11
+  - first:
+      213: -2032375371913559397
+    second: achievement-name-tiles@2x_12
+  - first:
+      213: 1139660296535476296
+    second: achievement-name-tiles@2x_13
+  - first:
+      213: -364463570099783147
+    second: achievement-name-tiles@2x_14
+  - first:
+      213: 6587987667194751650
+    second: achievement-name-tiles@2x_15
+  - first:
+      213: -2408343359707129852
+    second: achievement-name-tiles@2x_16
+  - first:
+      213: -2802245374948650927
+    second: achievement-name-tiles@2x_17
+  - first:
+      213: -4886989894488943201
+    second: achievement-name-tiles@2x_18
+  - first:
+      213: -645215678711110507
+    second: achievement-name-tiles@2x_19
+  - first:
+      213: -2092903605650725684
+    second: achievement-name-tiles@2x_20
+  - first:
+      213: 3308253070850484601
+    second: achievement-name-tiles@2x_21
+  - first:
+      213: -1961295729376680152
+    second: achievement-name-tiles@2x_22
+  - first:
+      213: -4851475059567785450
+    second: achievement-name-tiles@2x_23
+  - first:
+      213: -2763876769701546053
+    second: achievement-name-tiles@2x_24
+  - first:
+      213: -7720576816781609537
+    second: achievement-name-tiles@2x_25
+  - first:
+      213: 1452547585911730039
+    second: achievement-name-tiles@2x_26
+  - first:
+      213: -1911554144641770063
+    second: achievement-name-tiles@2x_27
+  - first:
+      213: 6995343714274959178
+    second: achievement-name-tiles@2x_28
+  - first:
+      213: 9048570791703462852
+    second: achievement-name-tiles@2x_29
+  - first:
+      213: 6677572500325808222
+    second: achievement-name-tiles@2x_30
+  - first:
+      213: -8870696410801348901
+    second: achievement-name-tiles@2x_31
+  - first:
+      213: 2599305136248731969
+    second: achievement-name-tiles@2x_32
+  - first:
+      213: -409018964299227724
+    second: achievement-name-tiles@2x_33
+  - first:
+      213: -3650598852474361453
+    second: achievement-name-tiles@2x_34
+  - first:
+      213: 4400389850804073326
+    second: achievement-name-tiles@2x_35
+  - first:
+      213: -5539520263791538358
+    second: achievement-name-tiles@2x_36
+  - first:
+      213: 2595229771362519005
+    second: achievement-name-tiles@2x_37
+  - first:
+      213: -6127674470264782569
+    second: achievement-name-tiles@2x_38
+  - first:
+      213: -3569170528540358875
+    second: achievement-name-tiles@2x_39
+  - first:
+      213: -7322218014450360066
+    second: achievement-name-tiles@2x_40
+  - first:
+      213: -1160033713460413801
+    second: achievement-name-tiles@2x_41
+  - first:
+      213: -3035160913134662968
+    second: achievement-name-tiles@2x_42
+  - first:
+      213: -2800677884328755259
+    second: achievement-name-tiles@2x_43
+  - first:
+      213: -7849690670065990358
+    second: achievement-name-tiles@2x_44
+  - first:
+      213: -4698212769777472039
+    second: achievement-name-tiles@2x_45
+  - first:
+      213: -6148098537518019890
+    second: achievement-name-tiles@2x_46
+  - first:
+      213: 4144182949710511302
+    second: achievement-name-tiles@2x_47
+  - first:
+      213: -2541486251812324704
+    second: achievement-name-tiles@2x_48
+  - first:
+      213: -3873957723637632940
+    second: achievement-name-tiles@2x_49
+  - first:
+      213: 2372169910622013225
+    second: achievement-name-tiles@2x_50
+  - first:
+      213: -4330352910316837949
+    second: achievement-name-tiles@2x_51
+  - first:
+      213: -4111151625129517625
+    second: achievement-name-tiles@2x_52
+  - first:
+      213: 4528609821736675937
+    second: achievement-name-tiles@2x_53
+  - first:
+      213: 3347330766698644621
+    second: achievement-name-tiles@2x_54
+  - first:
+      213: -6506520669485632000
+    second: achievement-name-tiles@2x_55
+  - first:
+      213: -1679756182871975639
+    second: achievement-name-tiles@2x_56
+  - first:
+      213: -8470688093223206405
+    second: achievement-name-tiles@2x_57
+  - first:
+      213: -3309833413453942773
+    second: achievement-name-tiles@2x_58
+  - first:
+      213: 1180988267028990449
+    second: achievement-name-tiles@2x_59
+  - first:
+      213: 5555774127540806804
+    second: achievement-name-tiles@2x_60
+  - first:
+      213: 2717135964588189770
+    second: achievement-name-tiles@2x_61
+  - first:
+      213: -983062814696877195
+    second: achievement-name-tiles@2x_62
+  - first:
+      213: -5255681598626693394
+    second: achievement-name-tiles@2x_63
+  - first:
+      213: -7917595734740314689
+    second: achievement-name-tiles@2x_64
+  - first:
+      213: -6786421764869797022
+    second: achievement-name-tiles@2x_65
+  - first:
+      213: 4696510143629275019
+    second: achievement-name-tiles@2x_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 967
+        width: 116
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba89800e52e4c260800000000000000
+      internalID: 7117062204516043455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 963
+        width: 162
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3487dcd6375e9d860800000000000000
+      internalID: 7555322133816899651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 963
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720a642d2bfbd29c0800000000000000
+      internalID: -3950290523381129177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 968
+        width: 116
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288dd47030f24ed80800000000000000
+      internalID: -8222395329617733502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 963
+        width: 162
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711e7883cfeb7630800000000000000
+      internalID: 3925995123271143807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 903
+        width: 157
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdd804bbe09fee40800000000000000
+      internalID: 5687924196404420019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 903
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8dc8ad0475b05d0800000000000000
+      internalID: -3095284382830896923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 903
+        width: 113
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9fbad8dcea9c470800000000000000
+      internalID: 8415449576586869214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_8
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 906
+        width: 157
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661b7a1bc4a2c830800000000000000
+      internalID: 4090012603835422306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_9
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 906
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f026aa390f7c920800000000000000
+      internalID: 3010639392929877899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 844
+        width: 143
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d5b453d122f7b0800000000000000
+      internalID: -5192050228861741691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 843
+        width: 157
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e982b38a92c1a0800000000000000
+      internalID: -6790695397694513037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 843
+        width: 113
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9207d20e5d8bc3e0800000000000000
+      internalID: -2032375371913559397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_13
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 846
+        width: 143
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8480d936003e0df00800000000000000
+      internalID: 1139660296535476296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_14
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 845
+        width: 157
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ab1a2605a21faf0800000000000000
+      internalID: -364463570099783147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 783
+        width: 118
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa2ccfe0eb3d6b50800000000000000
+      internalID: 6587987667194751650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 785
+        width: 160
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4085c7b6978d39ed0800000000000000
+      internalID: -2408343359707129852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 783
+        width: 113
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15054bcadac6c19d0800000000000000
+      internalID: -2802245374948650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_18
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 783
+        width: 118
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f951016559ced2cb0800000000000000
+      internalID: -4886989894488943201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 786
+        width: 159
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59469ea32cbbb07f0800000000000000
+      internalID: -645215678711110507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 723
+        width: 153
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4ed04624384f2e0800000000000000
+      internalID: -2092903605650725684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 723
+        width: 99
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979632bd3a649ed20800000000000000
+      internalID: 3308253070850484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 726
+        width: 265
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827230fece318c4e0800000000000000
+      internalID: -1961295729376680152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 723
+        width: 138
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a8bc533291cacb0800000000000000
+      internalID: -4851475059567785450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 663
+        width: 274
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb73cfab8bcb4a9d0800000000000000
+      internalID: -2763876769701546053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 663
+        width: 119
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5bd9e5a400bd490800000000000000
+      internalID: -7720576816781609537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 668
+        width: 114
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fae9d555c782410800000000000000
+      internalID: 1452547585911730039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_27
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 663
+        width: 139
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd93bf12abc875e0800000000000000
+      internalID: -1911554144641770063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 604
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fde139b04741160800000000000000
+      internalID: 6995343714274959178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 603
+        width: 189
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3c574913bf29d70800000000000000
+      internalID: 9048570791703462852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 603
+        width: 176
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5836db4fc08bac50800000000000000
+      internalID: 6677572500325808222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 606
+        width: 145
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5ad30d94f4e480800000000000000
+      internalID: -8870696410801348901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_32
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 606
+        width: 190
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14934fcef36921420800000000000000
+      internalID: 2599305136248731969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 546
+        width: 180
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bddb864b6fd25af0800000000000000
+      internalID: -409018964299227724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 546
+        width: 190
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39921d47fa7765dc0800000000000000
+      internalID: -3650598852474361453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 543
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63396a4143511d30800000000000000
+      internalID: 4400389850804073326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_36
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 543
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f80a27babaf13b0800000000000000
+      internalID: -5539520263791538358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 483
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7c4981abb140420800000000000000
+      internalID: 2595229771362519005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 483
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71143acf88026faa0800000000000000
+      internalID: -6127674470264782569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 483
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5270f878052c77ec0800000000000000
+      internalID: -3569170528540358875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_40
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 486
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef068b8b281426a90800000000000000
+      internalID: -7322218014450360066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 426
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af6b5db7bb6efe0800000000000000
+      internalID: -1160033713460413801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 425
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca45700b31f0e5d0800000000000000
+      internalID: -3035160913134662968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_43
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 423
+        width: 170
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfba468d4ef129d0800000000000000
+      internalID: -2800677884328755259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 366
+        width: 157
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c40ecceb401390800000000000000
+      internalID: -7849690670065990358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 363
+        width: 158
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda53ac0689cceb0800000000000000
+      internalID: -4698212769777472039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 367
+        width: 197
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecac32344f09daaa0800000000000000
+      internalID: -6148098537518019890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_47
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 363
+        width: 139
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb9b99f68138930800000000000000
+      internalID: 4144182949710511302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 303
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaff2728b3dabcd0800000000000000
+      internalID: -2541486251812324704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 306
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b2b7b9ffec3ac0800000000000000
+      internalID: -3873957723637632940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ce7527f3abe020800000000000000
+      internalID: 2372169910622013225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 308
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36c74a8fe77e3c0800000000000000
+      internalID: -4330352910316837949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_52
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 303
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd9266f06142f6c0800000000000000
+      internalID: -4111151625129517625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_53
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 303
+        width: 175
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa5f6a3aad8de30800000000000000
+      internalID: 4528609821736675937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 243
+        width: 133
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d840fcee89b147e20800000000000000
+      internalID: 3347330766698644621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 243
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00672939ce134b5a0800000000000000
+      internalID: -6506520669485632000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_56
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 248
+        width: 143
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92956a2c6ae40b8e0800000000000000
+      internalID: -1679756182871975639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 247
+        width: 187
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1cc401f02127a80800000000000000
+      internalID: -8470688093223206405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_58
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 243
+        width: 132
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00fb55fb0c1112d0800000000000000
+      internalID: -3309833413453942773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 184
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9ca2c5296b36010800000000000000
+      internalID: 1180988267028990449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 187
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494206c12231a1d40800000000000000
+      internalID: 5555774127540806804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 183
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a7b783c435b520800000000000000
+      internalID: 2717135964588189770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_62
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 185
+        width: 123
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d81a14957b52f0800000000000000
+      internalID: -983062814696877195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_63
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 185
+        width: 274
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee7c4d8e611017b0800000000000000
+      internalID: -5255681598626693394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d7a3e0ac0f1290800000000000000
+      internalID: -7917595734740314689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 125
+        width: 123
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc4f06c59c1d1a0800000000000000
+      internalID: -6786421764869797022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-name-tiles@2x_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 641
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8faa0ba71b5d2140800000000000000
+      internalID: 4696510143629275019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

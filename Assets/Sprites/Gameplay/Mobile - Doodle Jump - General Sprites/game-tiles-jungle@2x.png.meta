@@ -1,0 +1,4455 @@
+fileFormatVersion: 2
+guid: 3934196dc3ee34547807a7b04cd9b9ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6755417960869116180
+    second: game-tiles-jungle@2x_0
+  - first:
+      213: 4552689638490059537
+    second: game-tiles-jungle@2x_1
+  - first:
+      213: -2376993969635300604
+    second: game-tiles-jungle@2x_2
+  - first:
+      213: -7939686979074459027
+    second: game-tiles-jungle@2x_3
+  - first:
+      213: 5652882072461692772
+    second: game-tiles-jungle@2x_4
+  - first:
+      213: 2732015620113376437
+    second: game-tiles-jungle@2x_5
+  - first:
+      213: 699679887914518661
+    second: game-tiles-jungle@2x_6
+  - first:
+      213: 3983905685155511442
+    second: game-tiles-jungle@2x_7
+  - first:
+      213: 3720999921487137689
+    second: game-tiles-jungle@2x_8
+  - first:
+      213: -3304987127108408229
+    second: game-tiles-jungle@2x_9
+  - first:
+      213: -802411159032775559
+    second: game-tiles-jungle@2x_10
+  - first:
+      213: 5677270691345524500
+    second: game-tiles-jungle@2x_11
+  - first:
+      213: 4216467670448295971
+    second: game-tiles-jungle@2x_12
+  - first:
+      213: -5533442066629877926
+    second: game-tiles-jungle@2x_13
+  - first:
+      213: -1959608991150870332
+    second: game-tiles-jungle@2x_14
+  - first:
+      213: 4960810446618922533
+    second: game-tiles-jungle@2x_15
+  - first:
+      213: -716746787510254468
+    second: game-tiles-jungle@2x_16
+  - first:
+      213: 5260547409549171969
+    second: game-tiles-jungle@2x_17
+  - first:
+      213: 7819972089027216696
+    second: game-tiles-jungle@2x_18
+  - first:
+      213: -7251285452965369225
+    second: game-tiles-jungle@2x_19
+  - first:
+      213: -4400104019187742633
+    second: game-tiles-jungle@2x_20
+  - first:
+      213: -6727189521392288105
+    second: game-tiles-jungle@2x_21
+  - first:
+      213: -5516420987725321729
+    second: game-tiles-jungle@2x_22
+  - first:
+      213: 1677461128981704811
+    second: game-tiles-jungle@2x_23
+  - first:
+      213: 6900205958602078586
+    second: game-tiles-jungle@2x_24
+  - first:
+      213: 700710139933130105
+    second: game-tiles-jungle@2x_25
+  - first:
+      213: 7028223953097447800
+    second: game-tiles-jungle@2x_26
+  - first:
+      213: 7989171867808815428
+    second: game-tiles-jungle@2x_27
+  - first:
+      213: -1490620070806654080
+    second: game-tiles-jungle@2x_28
+  - first:
+      213: 2865772611634055184
+    second: game-tiles-jungle@2x_29
+  - first:
+      213: -2710589861459418289
+    second: game-tiles-jungle@2x_30
+  - first:
+      213: 3130803204949282201
+    second: game-tiles-jungle@2x_31
+  - first:
+      213: -3572651989688837570
+    second: game-tiles-jungle@2x_32
+  - first:
+      213: 5498974705202012876
+    second: game-tiles-jungle@2x_33
+  - first:
+      213: -2618681783605589422
+    second: game-tiles-jungle@2x_34
+  - first:
+      213: -7575077876126236364
+    second: game-tiles-jungle@2x_35
+  - first:
+      213: 2932562833687892007
+    second: game-tiles-jungle@2x_36
+  - first:
+      213: -6162344638773164934
+    second: game-tiles-jungle@2x_37
+  - first:
+      213: 5629633742874219387
+    second: game-tiles-jungle@2x_38
+  - first:
+      213: -7295804998846325970
+    second: game-tiles-jungle@2x_39
+  - first:
+      213: -1081972634055916530
+    second: game-tiles-jungle@2x_40
+  - first:
+      213: 5294533397949520432
+    second: game-tiles-jungle@2x_41
+  - first:
+      213: 8858043177206079669
+    second: game-tiles-jungle@2x_42
+  - first:
+      213: -133002752699389229
+    second: game-tiles-jungle@2x_43
+  - first:
+      213: -933897035636238325
+    second: game-tiles-jungle@2x_44
+  - first:
+      213: 1731892839571204353
+    second: game-tiles-jungle@2x_45
+  - first:
+      213: 2075079283849077611
+    second: game-tiles-jungle@2x_46
+  - first:
+      213: -8078551344381698324
+    second: game-tiles-jungle@2x_47
+  - first:
+      213: -5602632517164790720
+    second: game-tiles-jungle@2x_48
+  - first:
+      213: -5374014475083900084
+    second: game-tiles-jungle@2x_49
+  - first:
+      213: 2153728171931604466
+    second: game-tiles-jungle@2x_50
+  - first:
+      213: -3331940496450919283
+    second: game-tiles-jungle@2x_51
+  - first:
+      213: -8232242958992440408
+    second: game-tiles-jungle@2x_52
+  - first:
+      213: 8099560812744051605
+    second: game-tiles-jungle@2x_53
+  - first:
+      213: -3075028493154896045
+    second: game-tiles-jungle@2x_54
+  - first:
+      213: 7857301313348414533
+    second: game-tiles-jungle@2x_55
+  - first:
+      213: 1248133233274349237
+    second: game-tiles-jungle@2x_56
+  - first:
+      213: 4840909551186409661
+    second: game-tiles-jungle@2x_57
+  - first:
+      213: -155563161556424324
+    second: game-tiles-jungle@2x_58
+  - first:
+      213: 6829072013828980200
+    second: game-tiles-jungle@2x_59
+  - first:
+      213: -5214532815566076507
+    second: game-tiles-jungle@2x_60
+  - first:
+      213: 5965785468538802155
+    second: game-tiles-jungle@2x_61
+  - first:
+      213: 305200976064718132
+    second: game-tiles-jungle@2x_62
+  - first:
+      213: -2160640527843832496
+    second: game-tiles-jungle@2x_63
+  - first:
+      213: -7557379532592775375
+    second: game-tiles-jungle@2x_64
+  - first:
+      213: -8332284283105519166
+    second: game-tiles-jungle@2x_65
+  - first:
+      213: 2201370567802401166
+    second: game-tiles-jungle@2x_66
+  - first:
+      213: -346273621196523138
+    second: game-tiles-jungle@2x_67
+  - first:
+      213: 1859605928521639776
+    second: game-tiles-jungle@2x_68
+  - first:
+      213: 5135554682249949005
+    second: game-tiles-jungle@2x_69
+  - first:
+      213: -3786722020329616653
+    second: game-tiles-jungle@2x_70
+  - first:
+      213: -7475148226218327630
+    second: game-tiles-jungle@2x_71
+  - first:
+      213: -3414401834019253619
+    second: game-tiles-jungle@2x_72
+  - first:
+      213: 5005557147760116174
+    second: game-tiles-jungle@2x_73
+  - first:
+      213: 7698016278990150769
+    second: game-tiles-jungle@2x_74
+  - first:
+      213: -836046925556600768
+    second: game-tiles-jungle@2x_75
+  - first:
+      213: 3216436999655768020
+    second: game-tiles-jungle@2x_76
+  - first:
+      213: 662155582821443155
+    second: game-tiles-jungle@2x_77
+  - first:
+      213: -3678619031856182920
+    second: game-tiles-jungle@2x_78
+  - first:
+      213: 7844258404075189558
+    second: game-tiles-jungle@2x_79
+  - first:
+      213: -7496359986446901460
+    second: game-tiles-jungle@2x_80
+  - first:
+      213: 442648910917096710
+    second: game-tiles-jungle@2x_81
+  - first:
+      213: -8163093815519747083
+    second: game-tiles-jungle@2x_82
+  - first:
+      213: -4349607659012843691
+    second: game-tiles-jungle@2x_83
+  - first:
+      213: 8736835818047983085
+    second: game-tiles-jungle@2x_84
+  - first:
+      213: -3934943084480748113
+    second: game-tiles-jungle@2x_85
+  - first:
+      213: -7149448384796741149
+    second: game-tiles-jungle@2x_86
+  - first:
+      213: 392067801001122472
+    second: game-tiles-jungle@2x_87
+  - first:
+      213: 883938411483009093
+    second: game-tiles-jungle@2x_88
+  - first:
+      213: 3340340261848227051
+    second: game-tiles-jungle@2x_89
+  - first:
+      213: -2251768287317474568
+    second: game-tiles-jungle@2x_90
+  - first:
+      213: 6883609635177560797
+    second: game-tiles-jungle@2x_91
+  - first:
+      213: -7536217876094332951
+    second: game-tiles-jungle@2x_92
+  - first:
+      213: 2555470852021854458
+    second: game-tiles-jungle@2x_93
+  - first:
+      213: -3052727405402335021
+    second: game-tiles-jungle@2x_94
+  - first:
+      213: 5273680456638833187
+    second: game-tiles-jungle@2x_95
+  - first:
+      213: -8868311004952554381
+    second: game-tiles-jungle@2x_96
+  - first:
+      213: -9045050678662627722
+    second: game-tiles-jungle@2x_97
+  - first:
+      213: 1232744025341254763
+    second: game-tiles-jungle@2x_98
+  - first:
+      213: 5445988359503276286
+    second: game-tiles-jungle@2x_99
+  - first:
+      213: -7428388169182396794
+    second: game-tiles-jungle@2x_100
+  - first:
+      213: 2994993713151264255
+    second: game-tiles-jungle@2x_101
+  - first:
+      213: 2155643163501974823
+    second: game-tiles-jungle@2x_102
+  - first:
+      213: -7908934383530540719
+    second: game-tiles-jungle@2x_103
+  - first:
+      213: 1719493189408263822
+    second: game-tiles-jungle@2x_104
+  - first:
+      213: -5703557512775650450
+    second: game-tiles-jungle@2x_105
+  - first:
+      213: 1368602724733605994
+    second: game-tiles-jungle@2x_106
+  - first:
+      213: 8762854469067497009
+    second: game-tiles-jungle@2x_107
+  - first:
+      213: 2011364197832762504
+    second: game-tiles-jungle@2x_108
+  - first:
+      213: -6085449465192314157
+    second: game-tiles-jungle@2x_109
+  - first:
+      213: -4164791483860996921
+    second: game-tiles-jungle@2x_110
+  - first:
+      213: -8100102663604282694
+    second: game-tiles-jungle@2x_111
+  - first:
+      213: -3298102730790403903
+    second: game-tiles-jungle@2x_112
+  - first:
+      213: -8827643834127178157
+    second: game-tiles-jungle@2x_113
+  - first:
+      213: 5353986094666699163
+    second: game-tiles-jungle@2x_114
+  - first:
+      213: 8356706156017244951
+    second: game-tiles-jungle@2x_115
+  - first:
+      213: -2259375293120046624
+    second: game-tiles-jungle@2x_116
+  - first:
+      213: -2361660187598309510
+    second: game-tiles-jungle@2x_117
+  - first:
+      213: -1312948911940734531
+    second: game-tiles-jungle@2x_118
+  - first:
+      213: -4187249853823234027
+    second: game-tiles-jungle@2x_119
+  - first:
+      213: -7217980129879582912
+    second: game-tiles-jungle@2x_120
+  - first:
+      213: -4075035505132145969
+    second: game-tiles-jungle@2x_121
+  - first:
+      213: -907477611316951917
+    second: game-tiles-jungle@2x_122
+  - first:
+      213: -5221705688715096098
+    second: game-tiles-jungle@2x_123
+  - first:
+      213: -8693548426326791307
+    second: game-tiles-jungle@2x_124
+  - first:
+      213: 5108630808177753718
+    second: game-tiles-jungle@2x_125
+  - first:
+      213: 8655544104892737234
+    second: game-tiles-jungle@2x_126
+  - first:
+      213: -8112726163045716865
+    second: game-tiles-jungle@2x_127
+  - first:
+      213: 2319830444604960
+    second: game-tiles-jungle@2x_128
+  - first:
+      213: -4645374753394368263
+    second: game-tiles-jungle@2x_129
+  - first:
+      213: -6076108712443701590
+    second: game-tiles-jungle@2x_130
+  - first:
+      213: 6703770969085502377
+    second: game-tiles-jungle@2x_131
+  - first:
+      213: -7159171027378379716
+    second: game-tiles-jungle@2x_132
+  - first:
+      213: 2895941662880483516
+    second: game-tiles-jungle@2x_133
+  - first:
+      213: -2823081324623349014
+    second: game-tiles-jungle@2x_134
+  - first:
+      213: -1770577367478333079
+    second: game-tiles-jungle@2x_135
+  - first:
+      213: -7771705827269099012
+    second: game-tiles-jungle@2x_136
+  - first:
+      213: 8494030025021619991
+    second: game-tiles-jungle@2x_137
+  - first:
+      213: 7603620199879336060
+    second: game-tiles-jungle@2x_138
+  - first:
+      213: 2993984596627379837
+    second: game-tiles-jungle@2x_139
+  - first:
+      213: -39797152838429749
+    second: game-tiles-jungle@2x_140
+  - first:
+      213: 2203642205781927808
+    second: game-tiles-jungle@2x_141
+  - first:
+      213: -4679032146837044933
+    second: game-tiles-jungle@2x_142
+  - first:
+      213: 6154961916978409495
+    second: game-tiles-jungle@2x_143
+  - first:
+      213: -568524293898784332
+    second: game-tiles-jungle@2x_144
+  - first:
+      213: 2095320900058053585
+    second: game-tiles-jungle@2x_145
+  - first:
+      213: 6789369822344872253
+    second: game-tiles-jungle@2x_146
+  - first:
+      213: 5937813684233159774
+    second: game-tiles-jungle@2x_147
+  - first:
+      213: -1878586804330521742
+    second: game-tiles-jungle@2x_148
+  - first:
+      213: 5716881908365043898
+    second: game-tiles-jungle@2x_149
+  - first:
+      213: -1885259473661338002
+    second: game-tiles-jungle@2x_150
+  - first:
+      213: -3419697420625586761
+    second: game-tiles-jungle@2x_151
+  - first:
+      213: 8398520616836610509
+    second: game-tiles-jungle@2x_152
+  - first:
+      213: -6204766414045548968
+    second: game-tiles-jungle@2x_153
+  - first:
+      213: 8772513144348553406
+    second: game-tiles-jungle@2x_154
+  - first:
+      213: -4098265386380113625
+    second: game-tiles-jungle@2x_155
+  - first:
+      213: -8250941419572800139
+    second: game-tiles-jungle@2x_156
+  - first:
+      213: -5785130941543757552
+    second: game-tiles-jungle@2x_157
+  - first:
+      213: -846258271331578719
+    second: game-tiles-jungle@2x_158
+  - first:
+      213: 3023159164287782092
+    second: game-tiles-jungle@2x_159
+  - first:
+      213: 3304361132851118330
+    second: game-tiles-jungle@2x_160
+  - first:
+      213: -7314301181118634178
+    second: game-tiles-jungle@2x_161
+  - first:
+      213: -643937723509021080
+    second: game-tiles-jungle@2x_162
+  - first:
+      213: 6933116361658054012
+    second: game-tiles-jungle@2x_163
+  - first:
+      213: -4773398022700997145
+    second: game-tiles-jungle@2x_164
+  - first:
+      213: 5297846162790973638
+    second: game-tiles-jungle@2x_165
+  - first:
+      213: -142593476222094310
+    second: game-tiles-jungle@2x_166
+  - first:
+      213: 5449772375515075546
+    second: game-tiles-jungle@2x_167
+  - first:
+      213: 8218090912979173780
+    second: game-tiles-jungle@2x_168
+  - first:
+      213: -6741612740834619756
+    second: game-tiles-jungle@2x_169
+  - first:
+      213: 4121130742563380850
+    second: game-tiles-jungle@2x_170
+  - first:
+      213: -1538942142459918012
+    second: game-tiles-jungle@2x_171
+  - first:
+      213: -6455219577752883893
+    second: game-tiles-jungle@2x_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 991
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b5eaf7d010cd50800000000000000
+      internalID: 6755417960869116180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 839
+        width: 125
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1133dc2ea176e2f30800000000000000
+      internalID: 4552689638490059537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 932
+        width: 143
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b64a61498330fd0800000000000000
+      internalID: -2376993969635300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 932
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6af87042c090d190800000000000000
+      internalID: -7939686979074459027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 932
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc04e6b42137e40800000000000000
+      internalID: 5652882072461692772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 932
+        width: 154
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b42dad4bb11ae520800000000000000
+      internalID: 2732015620113376437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_6
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 932
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58841a7a623c5b900800000000000000
+      internalID: 699679887914518661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 909
+        width: 169
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c7a5eec1da94730800000000000000
+      internalID: 3983905685155511442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 955
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b4f71c6b5a3a330800000000000000
+      internalID: 3720999921487137689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 919
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ce67de7b35222d0800000000000000
+      internalID: -3304987127108408229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 840
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cba0e5d434dd4f0800000000000000
+      internalID: -802411159032775559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 796
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417e2634d97b9ce40800000000000000
+      internalID: 5677270691345524500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 874
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3205df7a107e38a30800000000000000
+      internalID: 4216467670448295971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 863
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f925102c34533b0800000000000000
+      internalID: -5533442066629877926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 888
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c07ac741021ec4e0800000000000000
+      internalID: -1959608991150870332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 883
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e84c451d658d440800000000000000
+      internalID: 4960810446618922533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 797
+        width: 169
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748c80289a9d06f0800000000000000
+      internalID: -716746787510254468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 848
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d97465ff7310940800000000000000
+      internalID: 5260547409549171969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 842
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835cfe7de2f168c60800000000000000
+      internalID: 7819972089027216696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 845
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aaa0bac424e5b90800000000000000
+      internalID: -7251285452965369225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758cb8115b0bfe2c0800000000000000
+      internalID: -4400104019187742633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 844
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ebea0c5c834a2a0800000000000000
+      internalID: -6727189521392288105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 844
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96f13c65cb173b0800000000000000
+      internalID: -5516420987725321729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 844
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fa7d520a874710800000000000000
+      internalID: 1677461128981704811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_24
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 844
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79b28fa2c472cf50800000000000000
+      internalID: 6900205958602078586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 612
+        width: 161
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d7a35e82c69b900800000000000000
+      internalID: 700710139933130105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 800
+        width: 122
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d34eb274498160800000000000000
+      internalID: 7028223953097447800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 655
+        width: 127
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d94e3c7d3fde60800000000000000
+      internalID: 7989171867808815428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 800
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083708871f0405be0800000000000000
+      internalID: -1490620070806654080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_29
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 800
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018cd7bb10545c720800000000000000
+      internalID: 2865772611634055184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_30
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 786
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43afefd1ec026ad0800000000000000
+      internalID: -2710589861459418289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 802
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d08ac5de8d27b20800000000000000
+      internalID: 3130803204949282201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 735
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a1180b1f36b6ec0800000000000000
+      internalID: -3572651989688837570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 745
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ac6c0c58405c40800000000000000
+      internalID: 5498974705202012876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 745
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a076ccac298abd0800000000000000
+      internalID: -2618681783605589422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 745
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431439f5ecaefd690800000000000000
+      internalID: -7575077876126236364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 745
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720da7f1c5e82b820800000000000000
+      internalID: 2932562833687892007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 745
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7484665334fa7aa0800000000000000
+      internalID: -6162344638773164934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 745
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731293ef0a702e40800000000000000
+      internalID: 5629633742874219387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_39
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 745
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bde35220810ca90800000000000000
+      internalID: -7295804998846325970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_40
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 743
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0447623f9f0cf0f0800000000000000
+      internalID: -1081972634055916530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 743
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a1934e216f97940800000000000000
+      internalID: 5294533397949520432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_42
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 766
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0e07676571eea70800000000000000
+      internalID: 8858043177206079669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_43
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 744
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da243b73ba772ef0800000000000000
+      internalID: -133002752699389229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 744
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b089c1618912a03f0800000000000000
+      internalID: -933897035636238325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_45
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 738
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092fa39c5be80810800000000000000
+      internalID: 1731892839571204353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 745
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a89a4d992ccc10800000000000000
+      internalID: 2075079283849077611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_47
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceedf52ba5833ef80800000000000000
+      internalID: -8078551344381698324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_48
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 745
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c075fd8637f32b0800000000000000
+      internalID: -5602632517164790720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b11d2ce4aab65b0800000000000000
+      internalID: -5374014475083900084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 745
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f51cb68c5493ed10800000000000000
+      internalID: 2153728171931604466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 745
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84ed4895c192c1d0800000000000000
+      internalID: -3331940496450919283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_52
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 745
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a38b8425a231cd80800000000000000
+      internalID: -8232242958992440408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 744
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b884855ab676070800000000000000
+      internalID: 8099560812744051605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_54
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 733
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573c4fa0ed4355d0800000000000000
+      internalID: -3075028493154896045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ca75b2aedba0d60800000000000000
+      internalID: 7857301313348414533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 660
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b66da11092425110800000000000000
+      internalID: 1248133233274349237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 691
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8f24ca69d5e2340800000000000000
+      internalID: 4840909551186409661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 691
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ea47f02457ddf0800000000000000
+      internalID: -155563161556424324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 691
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed76d980dcb5ce50800000000000000
+      internalID: 6829072013828980200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 691
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a50192380242a7b0800000000000000
+      internalID: -5214532815566076507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 691
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef417a864abac250800000000000000
+      internalID: 5965785468538802155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 691
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a073bbaa4c3400800000000000000
+      internalID: 305200976064718132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 691
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4e8233ecd302e0800000000000000
+      internalID: -2160640527843832496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 691
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ffff61b5bce1790800000000000000
+      internalID: -7557379532592775375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 691
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9dce14797cd5c80800000000000000
+      internalID: -8332284283105519166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_66
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 691
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81bcd83ed6dc8e10800000000000000
+      internalID: 2201370567802401166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_67
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 690
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793e75e9f9c13bf0800000000000000
+      internalID: -346273621196523138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_68
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 691
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672eb74db5aec910800000000000000
+      internalID: 1859605928521639776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_69
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 691
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f2a1036c7254740800000000000000
+      internalID: 5135554682249949005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_70
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 691
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8a1ba26cd27bc0800000000000000
+      internalID: -3786722020329616653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_71
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 691
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18dd41b40f24890800000000000000
+      internalID: -7475148226218327630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_72
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 691
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8217da4f9b9d90d0800000000000000
+      internalID: -3414401834019253619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_73
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 691
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c82f84bf477540800000000000000
+      internalID: 5005557147760116174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_74
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 690
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cd1681509d4da60800000000000000
+      internalID: 7698016278990150769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_75
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 691
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04034a230c3c564f0800000000000000
+      internalID: -836046925556600768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_76
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 690
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb7e6e86413ac20800000000000000
+      internalID: 3216436999655768020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_77
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 698
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3562d1c8ef2703900800000000000000
+      internalID: 662155582821443155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 640
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879883e0b7be2fcc0800000000000000
+      internalID: -3678619031856182920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 641
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635364535776cdc60800000000000000
+      internalID: 7844258404075189558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_80
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 644
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f516b4f4497f790800000000000000
+      internalID: -7496359986446901460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_81
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 645
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6055d67d6da942600800000000000000
+      internalID: 442648910917096710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 648
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e1c9bc6dd6be80800000000000000
+      internalID: -8163093815519747083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_83
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 650
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557983c11e613a3c0800000000000000
+      internalID: -4349607659012843691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 651
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc8a303e97f3970800000000000000
+      internalID: 8736835818047983085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_85
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 660
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52526ec164469c0800000000000000
+      internalID: -3934943084480748113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_86
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 590
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1333cc29e08cc90800000000000000
+      internalID: -7149448384796741149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 624
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa5a867697e07500800000000000000
+      internalID: 392067801001122472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_88
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 552
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54094cb4d41644c00800000000000000
+      internalID: 883938411483009093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 552
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec166035c54b5e20800000000000000
+      internalID: 3340340261848227051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 652
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2c3fd4cac10c0e0800000000000000
+      internalID: -2251768287317474568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_91
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 634
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf6350e7e778f50800000000000000
+      internalID: 6883609635177560797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 626
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efc27135c9f96790800000000000000
+      internalID: -7536217876094332951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 620
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a0a0533bd67320800000000000000
+      internalID: 2555470852021854458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_94
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 633
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d4ec499882a5d0800000000000000
+      internalID: -3052727405402335021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 588
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322a0e42f60ef2940800000000000000
+      internalID: 5273680456638833187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_96
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 515
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3749d18902e6de480800000000000000
+      internalID: -8868311004952554381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_97
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 583
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e78ea9456897280800000000000000
+      internalID: -9045050678662627722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_98
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 583
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c5371e8269b1110800000000000000
+      internalID: 1232744025341254763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 583
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8ea131f89049b40800000000000000
+      internalID: 5445988359503276286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_100
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 583
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3b22415019e890800000000000000
+      internalID: -7428388169182396794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_101
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 583
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c8e8f9ea509920800000000000000
+      internalID: 2994993713151264255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 572
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d80f39026aed10800000000000000
+      internalID: 2155643163501974823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_103
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 572
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1510acdd412dd3290800000000000000
+      internalID: -7908934383530540719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_104
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 537
+        width: 149
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e026c02fddcd710800000000000000
+      internalID: 1719493189408263822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 552
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e633ffe29a4e8d0b0800000000000000
+      internalID: -5703557512775650450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_106
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 546
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68d06e4de04ef210800000000000000
+      internalID: 1368602724733605994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_107
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 546
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e563746b9eb9970800000000000000
+      internalID: 8762854469067497009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_108
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 546
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a2cdc41dc9eb10800000000000000
+      internalID: 2011364197832762504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_109
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 546
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da0f9814f32c8ba0800000000000000
+      internalID: -6085449465192314157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_110
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 568
+        width: 110
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cca4e02630b336c0800000000000000
+      internalID: -4164791483860996921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_111
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 556
+        width: 110
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abadbab2b87a69f80800000000000000
+      internalID: -8100102663604282694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00e7a5a09ca32d0800000000000000
+      internalID: -3298102730790403903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 443
+        width: 162
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ae2724b8ed7580800000000000000
+      internalID: -8827643834127178157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_114
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 509
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915df88cfd2d4a40800000000000000
+      internalID: 5353986094666699163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5ab129fbf8f370800000000000000
+      internalID: 8356706156017244951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_116
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 423
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9194f342615a0e0800000000000000
+      internalID: -2259375293120046624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_117
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 420
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77350e6292b93fd0800000000000000
+      internalID: -2361660187598309510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_118
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 340
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1798fbbe777cde0800000000000000
+      internalID: -1312948911940734531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_119
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 335
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5105f056176e3e5c0800000000000000
+      internalID: -4187249853823234027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 444
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04713ba705594db90800000000000000
+      internalID: -7217980129879582912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_121
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 442
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc27e7d6cc09277c0800000000000000
+      internalID: -4075035505132145969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 397
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39445d7abedf763f0800000000000000
+      internalID: -907477611316951917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 416
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf00868756c887b0800000000000000
+      internalID: -5221705688715096098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_124
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 408
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba22344cf4a5780800000000000000
+      internalID: -8693548426326791307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_125
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 394
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e3d0247a085e640800000000000000
+      internalID: 5108630808177753718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_126
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 323
+        width: 162
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6abdd118bae1870800000000000000
+      internalID: 8655544104892737234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_127
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c64aba98ec96f80800000000000000
+      internalID: -8112726163045716865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 387
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef69d9fdd380000800000000000000
+      internalID: 2319830444604960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_129
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 350
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f06c572640588fb0800000000000000
+      internalID: -4645374753394368263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_130
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6132291535daba0800000000000000
+      internalID: -6076108712443701590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_131
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 289
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3eae3ad24980d50800000000000000
+      internalID: 6703770969085502377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_132
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 290
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e7daa1e385ac90800000000000000
+      internalID: -7159171027378379716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_133
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 290
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ce3a5993703820800000000000000
+      internalID: 2895941662880483516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_134
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 290
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea39c91e7662d8d0800000000000000
+      internalID: -2823081324623349014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_135
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 300
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619b14e345ad67e0800000000000000
+      internalID: -1770577367478333079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_136
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 290
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1cac2f9ba552490800000000000000
+      internalID: -7771705827269099012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_137
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 320
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f7ae0fd4bd0e570800000000000000
+      internalID: 8494030025021619991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_138
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 292
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70eacc394c758960800000000000000
+      internalID: 7603620199879336060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_139
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 292
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7657f8b025cc8920800000000000000
+      internalID: 2993984596627379837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_140
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 293
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc35ef943bc927ff0800000000000000
+      internalID: -39797152838429749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_141
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 303
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087a0b729e8e49e10800000000000000
+      internalID: 2203642205781927808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 161
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3105239d0db01fb0800000000000000
+      internalID: -4679032146837044933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_143
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 203
+        width: 162
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7103e8bc041da6550800000000000000
+      internalID: 6154961916978409495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_144
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1bbf7ba223c18f0800000000000000
+      internalID: -568524293898784332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_145
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 291
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7962d143141d10800000000000000
+      internalID: 2095320900058053585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_146
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d318f9db1efa83e50800000000000000
+      internalID: 6789369822344872253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_147
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 292
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54cb2ff51a576250800000000000000
+      internalID: 5937813684233159774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_148
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 293
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b9420314bede5e0800000000000000
+      internalID: -1878586804330521742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_149
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 293
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8a4fa6ec1765f40800000000000000
+      internalID: 5716881908365043898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_150
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 294
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed9fa4f7636d5e0800000000000000
+      internalID: -1885259473661338002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_151
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5da44705bca80d0800000000000000
+      internalID: -3419697420625586761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_152
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 231
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93755f00a8d8470800000000000000
+      internalID: 8398520616836610509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_153
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 223
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6a8812dd34e9a0800000000000000
+      internalID: -6204766414045548968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_154
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 236
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0375cd93a3eb970800000000000000
+      internalID: 8772513144348553406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_155
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 237
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c88938590027c0800000000000000
+      internalID: -4098265386380113625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_156
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 239
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755ec78e74ce7d80800000000000000
+      internalID: -8250941419572800139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_157
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 241
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019c9224f0617bfa0800000000000000
+      internalID: -5785130941543757552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_158
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 242
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac8b0df59c7144f0800000000000000
+      internalID: -846258271331578719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_159
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 244
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc07d61e3b64f920800000000000000
+      internalID: 3023159164287782092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_160
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 245
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c23d61f27bdd20800000000000000
+      internalID: 3304361132851118330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_161
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 246
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37243f14d16e7a90800000000000000
+      internalID: -7314301181118634178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_162
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 247
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86665cc5d064017f0800000000000000
+      internalID: -643937723509021080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_163
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 249
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b3130990673060800000000000000
+      internalID: 6933116361658054012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_164
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 230
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ea55f9cb71cdb0800000000000000
+      internalID: -4773398022700997145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_165
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 218
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c082df040bb58940800000000000000
+      internalID: 5297846162790973638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_166
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 230
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a147e762df7650ef0800000000000000
+      internalID: -142593476222094310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_167
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 119
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad31055f91b71ab40800000000000000
+      internalID: 5449772375515075546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_168
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 129
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914dffd4268c0270800000000000000
+      internalID: 8218090912979173780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_169
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 130
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e0e494eeaf072a0800000000000000
+      internalID: -6741612740834619756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_170
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1
+        width: 160
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e9e6f5392313930800000000000000
+      internalID: 4121130742563380850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_171
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3
+        width: 162
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494ccc664494aae0800000000000000
+      internalID: -1538942142459918012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-jungle@2x_172
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3
+        width: 162
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d64e8cef37a66a0800000000000000
+      internalID: -6455219577752883893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

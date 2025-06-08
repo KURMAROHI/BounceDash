@@ -1,0 +1,4830 @@
+fileFormatVersion: 2
+guid: 5c9049c0ace78e6458fa5bf6cf767e55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4254189093493942248
+    second: game-tiles-snow@2x_0
+  - first:
+      213: -3831204538486940575
+    second: game-tiles-snow@2x_1
+  - first:
+      213: 5806889473353816429
+    second: game-tiles-snow@2x_2
+  - first:
+      213: 7849409722820092691
+    second: game-tiles-snow@2x_3
+  - first:
+      213: 2651149328350793892
+    second: game-tiles-snow@2x_4
+  - first:
+      213: 8131223268256146944
+    second: game-tiles-snow@2x_5
+  - first:
+      213: 2990105061880047193
+    second: game-tiles-snow@2x_6
+  - first:
+      213: -8996581155954909607
+    second: game-tiles-snow@2x_7
+  - first:
+      213: -8900912502507853959
+    second: game-tiles-snow@2x_8
+  - first:
+      213: -4103502925124733132
+    second: game-tiles-snow@2x_9
+  - first:
+      213: -4396608823738597018
+    second: game-tiles-snow@2x_10
+  - first:
+      213: -985829828324864904
+    second: game-tiles-snow@2x_11
+  - first:
+      213: -5195859635885447651
+    second: game-tiles-snow@2x_12
+  - first:
+      213: -5012620043950774859
+    second: game-tiles-snow@2x_13
+  - first:
+      213: -7794258703372515451
+    second: game-tiles-snow@2x_14
+  - first:
+      213: 6676559700885188810
+    second: game-tiles-snow@2x_15
+  - first:
+      213: 1232330713386829794
+    second: game-tiles-snow@2x_16
+  - first:
+      213: -236381126421631543
+    second: game-tiles-snow@2x_17
+  - first:
+      213: -258725098381691462
+    second: game-tiles-snow@2x_18
+  - first:
+      213: -415360825982758054
+    second: game-tiles-snow@2x_19
+  - first:
+      213: -4398413029497580402
+    second: game-tiles-snow@2x_20
+  - first:
+      213: -788920228106573742
+    second: game-tiles-snow@2x_21
+  - first:
+      213: -7902467249295480467
+    second: game-tiles-snow@2x_22
+  - first:
+      213: -2248423110419267370
+    second: game-tiles-snow@2x_23
+  - first:
+      213: -29770339754035202
+    second: game-tiles-snow@2x_24
+  - first:
+      213: 8724263379723296669
+    second: game-tiles-snow@2x_25
+  - first:
+      213: -6367734922253221642
+    second: game-tiles-snow@2x_26
+  - first:
+      213: 7522737614021095062
+    second: game-tiles-snow@2x_27
+  - first:
+      213: 8835136667505576286
+    second: game-tiles-snow@2x_28
+  - first:
+      213: 5935777263169378955
+    second: game-tiles-snow@2x_29
+  - first:
+      213: 1019116792632043417
+    second: game-tiles-snow@2x_30
+  - first:
+      213: -5319874696433253973
+    second: game-tiles-snow@2x_31
+  - first:
+      213: -410827934474121014
+    second: game-tiles-snow@2x_32
+  - first:
+      213: 6836180027134051132
+    second: game-tiles-snow@2x_33
+  - first:
+      213: 416100154648234181
+    second: game-tiles-snow@2x_34
+  - first:
+      213: 3774154940638447239
+    second: game-tiles-snow@2x_35
+  - first:
+      213: 2154539659300012976
+    second: game-tiles-snow@2x_36
+  - first:
+      213: -8117650453491261784
+    second: game-tiles-snow@2x_37
+  - first:
+      213: 2813158624134087905
+    second: game-tiles-snow@2x_38
+  - first:
+      213: 3575207798380013091
+    second: game-tiles-snow@2x_39
+  - first:
+      213: 9137106728668751482
+    second: game-tiles-snow@2x_40
+  - first:
+      213: -2480064719963212758
+    second: game-tiles-snow@2x_41
+  - first:
+      213: 986935892175388284
+    second: game-tiles-snow@2x_42
+  - first:
+      213: 8123815143972518700
+    second: game-tiles-snow@2x_43
+  - first:
+      213: 7903487641719445038
+    second: game-tiles-snow@2x_44
+  - first:
+      213: 4587352829814156368
+    second: game-tiles-snow@2x_45
+  - first:
+      213: 6613508405756781869
+    second: game-tiles-snow@2x_46
+  - first:
+      213: -6973487290270362172
+    second: game-tiles-snow@2x_47
+  - first:
+      213: -5093182788840657834
+    second: game-tiles-snow@2x_48
+  - first:
+      213: 8183213460583090229
+    second: game-tiles-snow@2x_49
+  - first:
+      213: -1633354994214968196
+    second: game-tiles-snow@2x_50
+  - first:
+      213: -3583871479650273105
+    second: game-tiles-snow@2x_51
+  - first:
+      213: -3526633952994813130
+    second: game-tiles-snow@2x_52
+  - first:
+      213: 4878613833208679715
+    second: game-tiles-snow@2x_53
+  - first:
+      213: -5862789211259738760
+    second: game-tiles-snow@2x_54
+  - first:
+      213: -5108862796600363312
+    second: game-tiles-snow@2x_55
+  - first:
+      213: -1396971295890133952
+    second: game-tiles-snow@2x_56
+  - first:
+      213: -7299956683761843767
+    second: game-tiles-snow@2x_57
+  - first:
+      213: 3420457146843285374
+    second: game-tiles-snow@2x_58
+  - first:
+      213: -776936109260770321
+    second: game-tiles-snow@2x_59
+  - first:
+      213: 3520247157126868376
+    second: game-tiles-snow@2x_60
+  - first:
+      213: 8302974507212051062
+    second: game-tiles-snow@2x_61
+  - first:
+      213: 3583683366751856597
+    second: game-tiles-snow@2x_62
+  - first:
+      213: 3693843308974566189
+    second: game-tiles-snow@2x_63
+  - first:
+      213: 7741318792320470598
+    second: game-tiles-snow@2x_64
+  - first:
+      213: -7936892723270821244
+    second: game-tiles-snow@2x_65
+  - first:
+      213: 8586685534013066727
+    second: game-tiles-snow@2x_66
+  - first:
+      213: 586038806376294043
+    second: game-tiles-snow@2x_67
+  - first:
+      213: 878986364066333448
+    second: game-tiles-snow@2x_68
+  - first:
+      213: -1445503293191968754
+    second: game-tiles-snow@2x_69
+  - first:
+      213: 2207141448132614272
+    second: game-tiles-snow@2x_70
+  - first:
+      213: 5602455441974096958
+    second: game-tiles-snow@2x_71
+  - first:
+      213: 1539496562651920228
+    second: game-tiles-snow@2x_72
+  - first:
+      213: 7361239355826293510
+    second: game-tiles-snow@2x_73
+  - first:
+      213: -8103685044939347779
+    second: game-tiles-snow@2x_74
+  - first:
+      213: -4396855424141146194
+    second: game-tiles-snow@2x_75
+  - first:
+      213: 24351800737339070
+    second: game-tiles-snow@2x_76
+  - first:
+      213: -7692078304541364274
+    second: game-tiles-snow@2x_77
+  - first:
+      213: -8882486639345958659
+    second: game-tiles-snow@2x_78
+  - first:
+      213: -8748442509049352803
+    second: game-tiles-snow@2x_79
+  - first:
+      213: 6441447048371840537
+    second: game-tiles-snow@2x_80
+  - first:
+      213: -5945885684652241425
+    second: game-tiles-snow@2x_81
+  - first:
+      213: 3839129687031442744
+    second: game-tiles-snow@2x_82
+  - first:
+      213: -4277580355926737322
+    second: game-tiles-snow@2x_83
+  - first:
+      213: 4653865658429403906
+    second: game-tiles-snow@2x_84
+  - first:
+      213: 7175671558146094731
+    second: game-tiles-snow@2x_85
+  - first:
+      213: 4597911476241590919
+    second: game-tiles-snow@2x_86
+  - first:
+      213: 7293873235813308071
+    second: game-tiles-snow@2x_87
+  - first:
+      213: -5215926396322274445
+    second: game-tiles-snow@2x_88
+  - first:
+      213: 1834298683736172007
+    second: game-tiles-snow@2x_89
+  - first:
+      213: 4432470710962159849
+    second: game-tiles-snow@2x_90
+  - first:
+      213: -2496748428091604657
+    second: game-tiles-snow@2x_91
+  - first:
+      213: -3417901677528256592
+    second: game-tiles-snow@2x_92
+  - first:
+      213: -5821428263749799350
+    second: game-tiles-snow@2x_93
+  - first:
+      213: -570713669293223719
+    second: game-tiles-snow@2x_94
+  - first:
+      213: -7460979656435178605
+    second: game-tiles-snow@2x_95
+  - first:
+      213: 1798292847978313920
+    second: game-tiles-snow@2x_96
+  - first:
+      213: -5894060046602732947
+    second: game-tiles-snow@2x_97
+  - first:
+      213: 7762577537606195450
+    second: game-tiles-snow@2x_98
+  - first:
+      213: 3620419989814507833
+    second: game-tiles-snow@2x_99
+  - first:
+      213: 3588185090112191934
+    second: game-tiles-snow@2x_100
+  - first:
+      213: 444402460913854232
+    second: game-tiles-snow@2x_101
+  - first:
+      213: -3438084180223104736
+    second: game-tiles-snow@2x_102
+  - first:
+      213: -3546864434022154335
+    second: game-tiles-snow@2x_103
+  - first:
+      213: -7953779744998043598
+    second: game-tiles-snow@2x_104
+  - first:
+      213: 2581595594977475868
+    second: game-tiles-snow@2x_105
+  - first:
+      213: 5202801559775308117
+    second: game-tiles-snow@2x_106
+  - first:
+      213: 944279516991965798
+    second: game-tiles-snow@2x_107
+  - first:
+      213: 9087473750888380103
+    second: game-tiles-snow@2x_108
+  - first:
+      213: 2609330927763309448
+    second: game-tiles-snow@2x_109
+  - first:
+      213: -1799145639395687033
+    second: game-tiles-snow@2x_110
+  - first:
+      213: -2145682855413479019
+    second: game-tiles-snow@2x_111
+  - first:
+      213: 3065293895165402380
+    second: game-tiles-snow@2x_112
+  - first:
+      213: -5021650226239008427
+    second: game-tiles-snow@2x_113
+  - first:
+      213: -8825912644725052258
+    second: game-tiles-snow@2x_114
+  - first:
+      213: -8329724425632884790
+    second: game-tiles-snow@2x_115
+  - first:
+      213: -127977848612629123
+    second: game-tiles-snow@2x_116
+  - first:
+      213: 6902637378375745388
+    second: game-tiles-snow@2x_117
+  - first:
+      213: -7752693933675872821
+    second: game-tiles-snow@2x_118
+  - first:
+      213: -7885282662876973800
+    second: game-tiles-snow@2x_119
+  - first:
+      213: 6233327581931098554
+    second: game-tiles-snow@2x_120
+  - first:
+      213: -3411220089948557097
+    second: game-tiles-snow@2x_121
+  - first:
+      213: -3277711361412829125
+    second: game-tiles-snow@2x_122
+  - first:
+      213: -1779486691071426494
+    second: game-tiles-snow@2x_123
+  - first:
+      213: -491322195828022048
+    second: game-tiles-snow@2x_124
+  - first:
+      213: 3510250860286304812
+    second: game-tiles-snow@2x_125
+  - first:
+      213: -1019283329012995499
+    second: game-tiles-snow@2x_126
+  - first:
+      213: 3929390517620943388
+    second: game-tiles-snow@2x_127
+  - first:
+      213: 8690238754141392106
+    second: game-tiles-snow@2x_128
+  - first:
+      213: 2448010748176804128
+    second: game-tiles-snow@2x_129
+  - first:
+      213: -1580955165112114585
+    second: game-tiles-snow@2x_130
+  - first:
+      213: -8961534542962270810
+    second: game-tiles-snow@2x_131
+  - first:
+      213: -5514841912027049679
+    second: game-tiles-snow@2x_132
+  - first:
+      213: 2708916155612992604
+    second: game-tiles-snow@2x_133
+  - first:
+      213: 5213375733807823951
+    second: game-tiles-snow@2x_134
+  - first:
+      213: 6241555908415489216
+    second: game-tiles-snow@2x_135
+  - first:
+      213: -7236074979194195568
+    second: game-tiles-snow@2x_136
+  - first:
+      213: -5803666743885617905
+    second: game-tiles-snow@2x_137
+  - first:
+      213: -1375791013315834821
+    second: game-tiles-snow@2x_138
+  - first:
+      213: 1020303607921707439
+    second: game-tiles-snow@2x_139
+  - first:
+      213: 2005230899721695357
+    second: game-tiles-snow@2x_140
+  - first:
+      213: 8000577659968350349
+    second: game-tiles-snow@2x_141
+  - first:
+      213: 3767167830367121735
+    second: game-tiles-snow@2x_142
+  - first:
+      213: 1157404388748224466
+    second: game-tiles-snow@2x_143
+  - first:
+      213: -7868840473336839403
+    second: game-tiles-snow@2x_144
+  - first:
+      213: -6419617944530015305
+    second: game-tiles-snow@2x_145
+  - first:
+      213: -4957189732080759505
+    second: game-tiles-snow@2x_146
+  - first:
+      213: -3149308432027259322
+    second: game-tiles-snow@2x_147
+  - first:
+      213: 5116532548726383946
+    second: game-tiles-snow@2x_148
+  - first:
+      213: 1738427914021732255
+    second: game-tiles-snow@2x_149
+  - first:
+      213: -6968838747242611571
+    second: game-tiles-snow@2x_150
+  - first:
+      213: 5055606938791668780
+    second: game-tiles-snow@2x_151
+  - first:
+      213: 4186931166470034775
+    second: game-tiles-snow@2x_152
+  - first:
+      213: -1827055855684963490
+    second: game-tiles-snow@2x_153
+  - first:
+      213: 5979490593741640540
+    second: game-tiles-snow@2x_154
+  - first:
+      213: 5118301439611581744
+    second: game-tiles-snow@2x_155
+  - first:
+      213: 4134795624199029690
+    second: game-tiles-snow@2x_156
+  - first:
+      213: 6412383635671212459
+    second: game-tiles-snow@2x_157
+  - first:
+      213: -7522297152416914353
+    second: game-tiles-snow@2x_158
+  - first:
+      213: -4581208958429572554
+    second: game-tiles-snow@2x_159
+  - first:
+      213: 45714890551867955
+    second: game-tiles-snow@2x_160
+  - first:
+      213: -2379196629856478946
+    second: game-tiles-snow@2x_161
+  - first:
+      213: -4806935236807434763
+    second: game-tiles-snow@2x_162
+  - first:
+      213: 8288119032359297756
+    second: game-tiles-snow@2x_163
+  - first:
+      213: 1137475297350541176
+    second: game-tiles-snow@2x_164
+  - first:
+      213: -3092575528488337978
+    second: game-tiles-snow@2x_165
+  - first:
+      213: 677161951678869208
+    second: game-tiles-snow@2x_166
+  - first:
+      213: -4439905910917275179
+    second: game-tiles-snow@2x_167
+  - first:
+      213: 7978729897536907690
+    second: game-tiles-snow@2x_168
+  - first:
+      213: -8098783017561989873
+    second: game-tiles-snow@2x_169
+  - first:
+      213: -5854933071642763314
+    second: game-tiles-snow@2x_170
+  - first:
+      213: -4170438906674014741
+    second: game-tiles-snow@2x_171
+  - first:
+      213: 1643507053548443497
+    second: game-tiles-snow@2x_172
+  - first:
+      213: -6337382111097365974
+    second: game-tiles-snow@2x_173
+  - first:
+      213: -2259044999763867553
+    second: game-tiles-snow@2x_174
+  - first:
+      213: 8756576830833430676
+    second: game-tiles-snow@2x_175
+  - first:
+      213: -3670365749755384575
+    second: game-tiles-snow@2x_176
+  - first:
+      213: 407287443668012468
+    second: game-tiles-snow@2x_177
+  - first:
+      213: 9067441537625216052
+    second: game-tiles-snow@2x_178
+  - first:
+      213: -4581055378634075287
+    second: game-tiles-snow@2x_179
+  - first:
+      213: 8782545815198891834
+    second: game-tiles-snow@2x_180
+  - first:
+      213: 4136921961847452851
+    second: game-tiles-snow@2x_181
+  - first:
+      213: 8588036633841514048
+    second: game-tiles-snow@2x_182
+  - first:
+      213: 5743435873064915115
+    second: game-tiles-snow@2x_183
+  - first:
+      213: 2981372737823439272
+    second: game-tiles-snow@2x_184
+  - first:
+      213: 9049053870650272265
+    second: game-tiles-snow@2x_185
+  - first:
+      213: -7275713681584433120
+    second: game-tiles-snow@2x_186
+  - first:
+      213: 4956467903441998909
+    second: game-tiles-snow@2x_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 990
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72c0dd07ae90b30800000000000000
+      internalID: 4254189093493942248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 840
+        width: 125
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c1f9555c3d4dac0800000000000000
+      internalID: -3831204538486940575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 932
+        width: 151
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d699535b537369050800000000000000
+      internalID: 5806889473353816429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 932
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31360311e84beec60800000000000000
+      internalID: 7849409722820092691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_4
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 932
+        width: 162
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a05dda8446cac420800000000000000
+      internalID: 2651149328350793892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 932
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066ccd3b78e7d070800000000000000
+      internalID: 8131223268256146944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_6
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 932
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956257626bcfe7920800000000000000
+      internalID: 2990105061880047193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_7
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 910
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9556ca19b52380800000000000000
+      internalID: -8996581155954909607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 954
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977af2fec3b997480800000000000000
+      internalID: -8900912502507853959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 918
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437f925b4dd6d07c0800000000000000
+      internalID: -4103502925124733132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 840
+        width: 154
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66186bca19b1cf2c0800000000000000
+      internalID: -4396608823738597018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 791
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c46b98ef0a152f0800000000000000
+      internalID: -985829828324864904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 874
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16e144a03994e7b0800000000000000
+      internalID: -5195859635885447651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 863
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5af46c0a89f6ab0800000000000000
+      internalID: -5012620043950774859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_14
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 888
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5870cf9410b35d390800000000000000
+      internalID: -7794258703372515451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 882
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac033fc8ca7e7ac50800000000000000
+      internalID: 6676559700885188810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_16
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 798
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7c931314e1a1110800000000000000
+      internalID: 1232330713386829794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 845
+        width: 121
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd28003e9438bcf0800000000000000
+      internalID: -236381126421631543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 842
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53b70d4e2d86cf0800000000000000
+      internalID: -258725098381691462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 845
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a535fa987875c3af0800000000000000
+      internalID: -415360825982758054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d85947a2b5f2c0800000000000000
+      internalID: -4398413029497580402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 844
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258669f7b313d05f0800000000000000
+      internalID: -788920228106573742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 844
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69a594e7ebc45290800000000000000
+      internalID: -7902467249295480467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 844
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04eaef71ffbc0e0800000000000000
+      internalID: -2248423110419267370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_24
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 844
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef73e12a80c369ff0800000000000000
+      internalID: -29770339754035202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 614
+        width: 161
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1b5b125fc21970800000000000000
+      internalID: 8724263379723296669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 122
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04f3f63d241a7a0800000000000000
+      internalID: -6367734922253221642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 656
+        width: 130
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e6236b002266860800000000000000
+      internalID: 7522737614021095062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 799
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59c2b01df5bc9a70800000000000000
+      internalID: 8835136667505576286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 799
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a1d05c8fd106250800000000000000
+      internalID: 5935777263169378955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_30
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 786
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997e779c251a42e00800000000000000
+      internalID: 1019116792632043417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 802
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c18546220c26b0800000000000000
+      internalID: -5319874696433253973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 741
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0dcd59b227c4af0800000000000000
+      internalID: -410827934474121014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3302f9d38dfede50800000000000000
+      internalID: 6836180027134051132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 745
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c80bc4d2e846c500800000000000000
+      internalID: 416100154648234181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 745
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864a041ced706430800000000000000
+      internalID: 3774154940638447239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 745
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b38117a76676ed10800000000000000
+      internalID: 2154539659300012976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 745
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae5dd4fbef485f80800000000000000
+      internalID: -8117650453491261784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 745
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4c6582dd85a0720800000000000000
+      internalID: 2813158624134087905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_39
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 745
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a5a4ec80bd9130800000000000000
+      internalID: 3575207798380013091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_40
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 745
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e125c8268dce70800000000000000
+      internalID: 9137106728668751482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 743
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a243d92f64a059dd0800000000000000
+      internalID: -2480064719963212758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 743
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e723507fc42bd00800000000000000
+      internalID: 986935892175388284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_43
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 766
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bbb65e4d69db070800000000000000
+      internalID: 8123815143972518700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_44
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 744
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26906bb224dead60800000000000000
+      internalID: 7903487641719445038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_45
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 744
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca478081d89af30800000000000000
+      internalID: 4587352829814156368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_46
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 738
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25613cead6e7cb50800000000000000
+      internalID: 6613508405756781869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_47
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 688
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5dbb1b142393f90800000000000000
+      internalID: -6973487290270362172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_48
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 740
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ce4070d316159b0800000000000000
+      internalID: -5093182788840657834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_49
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 745
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538004f294d909170800000000000000
+      internalID: 8183213460583090229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74e4b169482559e0800000000000000
+      internalID: -1633354994214968196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_51
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 745
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8bace90e7834ec0800000000000000
+      internalID: -3583871479650273105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_52
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b99eaca11ee0fc0800000000000000
+      internalID: -3526633952994813130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 745
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc5bcee6154b340800000000000000
+      internalID: 4878613833208679715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 745
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875eed5564033aea0800000000000000
+      internalID: -5862789211259738760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_55
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 745
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63d6aba5ca919b0800000000000000
+      internalID: -5108862796600363312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 744
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c2d030206fc9ce0800000000000000
+      internalID: -1396971295890133952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_57
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 733
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c103aca21851ba90800000000000000
+      internalID: -7299956683761843767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 700
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774a0717a7e77f20800000000000000
+      internalID: 3420457146843285374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 695
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3765a99b4c735f0800000000000000
+      internalID: -776936109260770321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 707
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d202a632e6ad030800000000000000
+      internalID: 3520247157126868376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 700
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6729f71c2571a3370800000000000000
+      internalID: 8302974507212051062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 706
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d768bee80dcbb130800000000000000
+      internalID: 3583683366751856597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 702
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be16f2bea234330800000000000000
+      internalID: 3693843308974566189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_64
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 691
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e41552d60be6b60800000000000000
+      internalID: 7741318792320470598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 691
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5f01ae1e7ad190800000000000000
+      internalID: -7936892723270821244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 691
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed85dcbff80a2770800000000000000
+      internalID: 8586685534013066727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 691
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9627ae7037022800800000000000000
+      internalID: 586038806376294043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_68
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 691
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8030698e079c23c00800000000000000
+      internalID: 878986364066333448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_69
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 691
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a2a7d96a80fbe0800000000000000
+      internalID: -1445503293191968754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_70
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 691
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885cf0047751ae10800000000000000
+      internalID: 2207141448132614272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_71
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 691
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f1d89a8befbd40800000000000000
+      internalID: 5602455441974096958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_72
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 691
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4677dc597f36d5510800000000000000
+      internalID: 1539496562651920228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 691
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc6ae4130682660800000000000000
+      internalID: 7361239355826293510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_74
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 690
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8aeb4036de98f80800000000000000
+      internalID: -8103685044939347779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_75
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 691
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7415b894b3bf2c0800000000000000
+      internalID: -4396855424141146194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 691
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6179075d3865000800000000000000
+      internalID: 24351800737339070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 691
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa251598f304590800000000000000
+      internalID: -7692078304541364274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 691
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df081a386711bb480800000000000000
+      internalID: -8882486639345958659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_79
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 691
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9daf26a3e9479680800000000000000
+      internalID: -8748442509049352803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_80
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 691
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91621b556fd946950800000000000000
+      internalID: 6441447048371840537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_81
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 690
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0933f878fb7da0800000000000000
+      internalID: -5945885684652241425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_82
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 691
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6a2a1c14574530800000000000000
+      internalID: 3839129687031442744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_83
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 690
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3cc2745bf2a4c0800000000000000
+      internalID: -4277580355926737322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_84
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 698
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f21bb82ad59040800000000000000
+      internalID: 4653865658429403906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 683
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86fb28834b159360800000000000000
+      internalID: 7175671558146094731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_86
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 680
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a621a70201fcf30800000000000000
+      internalID: 4597911476241590919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 683
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69169301b093560800000000000000
+      internalID: 7293873235813308071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 692
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a0a4e39e4d97b0800000000000000
+      internalID: -5215926396322274445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_89
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 682
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5af003fecb47910800000000000000
+      internalID: 1834298683736172007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 661
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0093c90ac438d30800000000000000
+      internalID: 4432470710962159849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 662
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c5127884c95dd0800000000000000
+      internalID: -2496748428091604657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf67b9788c2190d0800000000000000
+      internalID: -3417901677528256592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 661
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4236cd56d1263fa0800000000000000
+      internalID: -5821428263749799350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_94
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 644
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0515901fa6418f0800000000000000
+      internalID: -570713669293223719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_95
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 645
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e3cd4886457890800000000000000
+      internalID: -7460979656435178605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_96
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 660
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c87fd541d1d4f810800000000000000
+      internalID: 1798292847978313920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_97
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 587
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6afb6d9d97143ea0800000000000000
+      internalID: -5894060046602732947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_98
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 571
+        width: 153
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8917e74273abb60800000000000000
+      internalID: 7762577537606195450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 624
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939fd968cc05e3230800000000000000
+      internalID: 3620419989814507833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_100
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 652
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7d74145bcbc130800000000000000
+      internalID: 3588185090112191934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_101
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 634
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81764140fa5da2600800000000000000
+      internalID: 444402460913854232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 626
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02969e167a87940d0800000000000000
+      internalID: -3438084180223104736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_103
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 624
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af74afd69107cec0800000000000000
+      internalID: -3546864434022154335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_104
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 641
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d1bd767f7e9190800000000000000
+      internalID: -7953779744998043598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_105
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 648
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d7858048ba3d320800000000000000
+      internalID: 2581595594977475868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 650
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596147f370143840800000000000000
+      internalID: 5202801559775308117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 651
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acbfab731ca1d00800000000000000
+      internalID: 944279516991965798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 550
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6736b9a313d1e70800000000000000
+      internalID: 9087473750888380103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 550
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883c5ca67a4363420800000000000000
+      internalID: 2609330927763309448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_110
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 620
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78580a0c2962807e0800000000000000
+      internalID: -1799145639395687033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_111
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 633
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990f62bfc00932e0800000000000000
+      internalID: -2145682855413479019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_112
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 563
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd1899e8c1a8a20800000000000000
+      internalID: 3065293895165402380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 588
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55193ce99b38f4ab0800000000000000
+      internalID: -5021650226239008427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_114
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 500
+        width: 165
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ce888163f048580800000000000000
+      internalID: -8825912644725052258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_115
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 583
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d14584cfd66c80800000000000000
+      internalID: -8329724425632884790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_116
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 583
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75535223d4593ef0800000000000000
+      internalID: -127977848612629123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 583
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f7b67bf181bcf50800000000000000
+      internalID: 6902637378375745388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 583
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7cee51f5e86490800000000000000
+      internalID: -7752693933675872821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_119
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 583
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815fba53239d19290800000000000000
+      internalID: -7885282662876973800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_120
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 569
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1d5a1096a318650800000000000000
+      internalID: 6233327581931098554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_121
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 535
+        width: 151
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b0ffc669e8a0d0800000000000000
+      internalID: -3411220089948557097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 552
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f9b202ea3382d0800000000000000
+      internalID: -3277711361412829125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_123
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 546
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2400728584efd47e0800000000000000
+      internalID: -1779486691071426494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_124
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 546
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e767e0197e29f0800000000000000
+      internalID: -491322195828022048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_125
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 546
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22efdf2f8ae6b030800000000000000
+      internalID: 3510250860286304812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_126
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 546
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae3b07637cad1f0800000000000000
+      internalID: -1019283329012995499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_127
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 569
+        width: 110
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa5926bdff78630800000000000000
+      internalID: 3929390517620943388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_128
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 557
+        width: 110
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec4ee1aa1ee99870800000000000000
+      internalID: 8690238754141392106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_129
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 386
+        width: 128
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029aa6b2ec419f120800000000000000
+      internalID: 2448010748176804128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_130
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 442
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7626ca157a15f0ae0800000000000000
+      internalID: -1580955165112114585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_131
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 442
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad575c30db32a380800000000000000
+      internalID: -8961534542962270810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1311139ff785773b0800000000000000
+      internalID: -5514841912027049679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_133
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 428
+        width: 166
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5411ad14e0089520800000000000000
+      internalID: 2708916155612992604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_134
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 509
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb146bb91a95840800000000000000
+      internalID: 5213375733807823951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c488de87067e9650800000000000000
+      internalID: 6241555908415489216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_136
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 417
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091b901152c449b90800000000000000
+      internalID: -7236074979194195568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_137
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 421
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0523f778db357fa0800000000000000
+      internalID: -5803666743885617905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_138
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 340
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8226dc5538ece0800000000000000
+      internalID: -1375791013315834821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_139
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 335
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa90931c9b8d82e00800000000000000
+      internalID: 1020303607921707439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 116
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d707c8e01e204db10800000000000000
+      internalID: 2005230899721695357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e65c2ef2c70f60800000000000000
+      internalID: 8000577659968350349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_142
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741bf42be2ba74430800000000000000
+      internalID: 3767167830367121735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 387
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e0dcc82def0010800000000000000
+      internalID: 1157404388748224466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138a88c7434cc290800000000000000
+      internalID: -7868840473336839403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_145
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 308
+        width: 165
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba096fd7fe8e6a0800000000000000
+      internalID: -6419617944530015305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_146
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcc17f336843bb0800000000000000
+      internalID: -4957189732080759505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_147
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 288
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e6fd4baa86b44d0800000000000000
+      internalID: -3149308432027259322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_148
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 298
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a456f889e33910740800000000000000
+      internalID: 5116532548726383946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_149
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 318
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f73ea2af2202810800000000000000
+      internalID: 1738427914021732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_150
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 290
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c30a5f416b94f90800000000000000
+      internalID: -6968838747242611571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_151
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 290
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c6dae99bf192640800000000000000
+      internalID: 5055606938791668780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_152
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 291
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755557c66b7fa1a30800000000000000
+      internalID: 4186931166470034775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_153
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 301
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b911216ef4a6e0800000000000000
+      internalID: -1827055855684963490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 165
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5392c9a30b6bf250800000000000000
+      internalID: 5979490593741640540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_155
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 188
+        width: 165
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0353b699a0cd70740800000000000000
+      internalID: 5118301439611581744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_156
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 287
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3093f86beb16930800000000000000
+      internalID: 4134795624199029690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_157
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 288
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e5bf31fc5df850800000000000000
+      internalID: 6412383635671212459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e14f389e6b9790800000000000000
+      internalID: -7522297152416914353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_159
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 288
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d7fe79b64c60c0800000000000000
+      internalID: -4581208958429572554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_160
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 289
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3a44637962a000800000000000000
+      internalID: 45714890551867955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_161
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 289
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19199a45456bfed0800000000000000
+      internalID: -2379196629856478946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_162
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 290
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd8cfced55a4db0800000000000000
+      internalID: -4806935236807434763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_163
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 291
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd22eebf850550370800000000000000
+      internalID: 8288119032359297756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_164
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 291
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f5c5f91cf19cf00800000000000000
+      internalID: 1137475297350541176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_165
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 292
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf26721f6f415d0800000000000000
+      internalID: -3092575528488337978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_166
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deaa311533c56900800000000000000
+      internalID: 677161951678869208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_167
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d16e9ff8194262c0800000000000000
+      internalID: -4439905910917275179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_168
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 221
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e97591942abe60800000000000000
+      internalID: 7978729897536907690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_169
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 234
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d504531c75b9f80800000000000000
+      internalID: -8098783017561989873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_170
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 235
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfdb0164691fbea0800000000000000
+      internalID: -5854933071642763314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_171
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 237
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51a3a09ef9f16c0800000000000000
+      internalID: -4170438906674014741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_172
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 239
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679a9025f8eec610800000000000000
+      internalID: 1643507053548443497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_173
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 240
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a502efb881d08a0800000000000000
+      internalID: -6337382111097365974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_174
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 242
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c379aa8246a0e0800000000000000
+      internalID: -2259044999763867553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_175
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 243
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4901e3abb3c958970800000000000000
+      internalID: 8756576830833430676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_176
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 244
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de11a0ccd301dc0800000000000000
+      internalID: -3670365749755384575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_177
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 245
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0f49a5c9f6a500800000000000000
+      internalID: 407287443668012468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_178
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 247
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434d5cf790606dd70800000000000000
+      internalID: 9067441537625216052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_179
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 228
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639f149762dc60c0800000000000000
+      internalID: -4581055378634075287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_180
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 216
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff58213eed1e970800000000000000
+      internalID: 8782545815198891834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_181
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4fd6f1b9c496930800000000000000
+      internalID: 4136921961847452851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_182
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0463a2e21d5de2770800000000000000
+      internalID: 8588036633841514048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 132
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0154c1f78c4bf40800000000000000
+      internalID: 5743435873064915115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_184
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 130
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9fff485b6ff5920800000000000000
+      internalID: 2981372737823439272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_185
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 172
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aab792d82b49d70800000000000000
+      internalID: 9049053870650272265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_186
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028d5b974f8770b90800000000000000
+      internalID: -7275713681584433120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-snow@2x_187
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3419453c49e8c440800000000000000
+      internalID: 4956467903441998909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

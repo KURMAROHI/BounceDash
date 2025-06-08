@@ -4,6 +4,10 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - Spring
+  - Obstacle
+  - Collectible
+  - BreakPlatForm
   - PlatForm
   layers:
   - Default
@@ -12,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - PlatForm
   - 
   - 
   - 

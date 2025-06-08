@@ -1,0 +1,5205 @@
+fileFormatVersion: 2
+guid: dd898823a8c97bc4783071359322a36e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -397195721803785541
+    second: game-tiles-halloween@2x_0
+  - first:
+      213: 277684994745512976
+    second: game-tiles-halloween@2x_1
+  - first:
+      213: -4427656177573801781
+    second: game-tiles-halloween@2x_2
+  - first:
+      213: -6103635077489483764
+    second: game-tiles-halloween@2x_3
+  - first:
+      213: -8198213331371269941
+    second: game-tiles-halloween@2x_4
+  - first:
+      213: 307224267495247319
+    second: game-tiles-halloween@2x_5
+  - first:
+      213: -3526254865287115597
+    second: game-tiles-halloween@2x_6
+  - first:
+      213: 4139708493996908793
+    second: game-tiles-halloween@2x_7
+  - first:
+      213: -7322790589849275963
+    second: game-tiles-halloween@2x_8
+  - first:
+      213: -49328951427989705
+    second: game-tiles-halloween@2x_9
+  - first:
+      213: 8970724031098894031
+    second: game-tiles-halloween@2x_10
+  - first:
+      213: -4091076100242671791
+    second: game-tiles-halloween@2x_11
+  - first:
+      213: -5239022506666695691
+    second: game-tiles-halloween@2x_12
+  - first:
+      213: 6221626868739886479
+    second: game-tiles-halloween@2x_13
+  - first:
+      213: -5413202443272581246
+    second: game-tiles-halloween@2x_14
+  - first:
+      213: -7348181990636058161
+    second: game-tiles-halloween@2x_15
+  - first:
+      213: -1633673448741636816
+    second: game-tiles-halloween@2x_16
+  - first:
+      213: -6485409962065051911
+    second: game-tiles-halloween@2x_17
+  - first:
+      213: 6101686395536716513
+    second: game-tiles-halloween@2x_18
+  - first:
+      213: 4756437932843575493
+    second: game-tiles-halloween@2x_19
+  - first:
+      213: 3424869736262135831
+    second: game-tiles-halloween@2x_20
+  - first:
+      213: 123089102475400189
+    second: game-tiles-halloween@2x_21
+  - first:
+      213: 8368937871730644896
+    second: game-tiles-halloween@2x_22
+  - first:
+      213: -4808239316009543480
+    second: game-tiles-halloween@2x_23
+  - first:
+      213: -5487551669002660427
+    second: game-tiles-halloween@2x_24
+  - first:
+      213: -984155216487213889
+    second: game-tiles-halloween@2x_25
+  - first:
+      213: -3472896374972309696
+    second: game-tiles-halloween@2x_26
+  - first:
+      213: -9064774007243927729
+    second: game-tiles-halloween@2x_27
+  - first:
+      213: 4466117115088676908
+    second: game-tiles-halloween@2x_28
+  - first:
+      213: 2649675402111909689
+    second: game-tiles-halloween@2x_29
+  - first:
+      213: 3186360874357667632
+    second: game-tiles-halloween@2x_30
+  - first:
+      213: 2996048370271663328
+    second: game-tiles-halloween@2x_31
+  - first:
+      213: 4321408310489148464
+    second: game-tiles-halloween@2x_32
+  - first:
+      213: 6242370205370385554
+    second: game-tiles-halloween@2x_33
+  - first:
+      213: 8177499181009080165
+    second: game-tiles-halloween@2x_34
+  - first:
+      213: -4047313152852574595
+    second: game-tiles-halloween@2x_35
+  - first:
+      213: -2427556787650467570
+    second: game-tiles-halloween@2x_36
+  - first:
+      213: -7280675397005301386
+    second: game-tiles-halloween@2x_37
+  - first:
+      213: 7852324242771553776
+    second: game-tiles-halloween@2x_38
+  - first:
+      213: -7246165865548881887
+    second: game-tiles-halloween@2x_39
+  - first:
+      213: 6565940724111384505
+    second: game-tiles-halloween@2x_40
+  - first:
+      213: -1113477059210983099
+    second: game-tiles-halloween@2x_41
+  - first:
+      213: -4557394735415786974
+    second: game-tiles-halloween@2x_42
+  - first:
+      213: 6557702006036785259
+    second: game-tiles-halloween@2x_43
+  - first:
+      213: -8737567158398117611
+    second: game-tiles-halloween@2x_44
+  - first:
+      213: 2210114615423780685
+    second: game-tiles-halloween@2x_45
+  - first:
+      213: -4832324024480325897
+    second: game-tiles-halloween@2x_46
+  - first:
+      213: -7542518842160757987
+    second: game-tiles-halloween@2x_47
+  - first:
+      213: 7313533119535108028
+    second: game-tiles-halloween@2x_48
+  - first:
+      213: -1908895510885567749
+    second: game-tiles-halloween@2x_49
+  - first:
+      213: -7933813488163757748
+    second: game-tiles-halloween@2x_50
+  - first:
+      213: -2418931158784586278
+    second: game-tiles-halloween@2x_51
+  - first:
+      213: 5206973944320185246
+    second: game-tiles-halloween@2x_52
+  - first:
+      213: -5285591712694857345
+    second: game-tiles-halloween@2x_53
+  - first:
+      213: 268616816387470590
+    second: game-tiles-halloween@2x_54
+  - first:
+      213: 4657978215614075276
+    second: game-tiles-halloween@2x_55
+  - first:
+      213: 7659287999358885688
+    second: game-tiles-halloween@2x_56
+  - first:
+      213: 8974048856446912888
+    second: game-tiles-halloween@2x_57
+  - first:
+      213: 1044383294603056473
+    second: game-tiles-halloween@2x_58
+  - first:
+      213: 8380408553694449049
+    second: game-tiles-halloween@2x_59
+  - first:
+      213: 110602821020189953
+    second: game-tiles-halloween@2x_60
+  - first:
+      213: -3977765367776162799
+    second: game-tiles-halloween@2x_61
+  - first:
+      213: -5953688893382563381
+    second: game-tiles-halloween@2x_62
+  - first:
+      213: 5283001087635956993
+    second: game-tiles-halloween@2x_63
+  - first:
+      213: 5503026176939105088
+    second: game-tiles-halloween@2x_64
+  - first:
+      213: -3786747974673566984
+    second: game-tiles-halloween@2x_65
+  - first:
+      213: -5273194000101346677
+    second: game-tiles-halloween@2x_66
+  - first:
+      213: -4743586580269346923
+    second: game-tiles-halloween@2x_67
+  - first:
+      213: 5209486987998830261
+    second: game-tiles-halloween@2x_68
+  - first:
+      213: -2704404097524752428
+    second: game-tiles-halloween@2x_69
+  - first:
+      213: 957391166249471889
+    second: game-tiles-halloween@2x_70
+  - first:
+      213: -5384125760939179610
+    second: game-tiles-halloween@2x_71
+  - first:
+      213: 839390401756113042
+    second: game-tiles-halloween@2x_72
+  - first:
+      213: 3318065782289432216
+    second: game-tiles-halloween@2x_73
+  - first:
+      213: 3184632938754897910
+    second: game-tiles-halloween@2x_74
+  - first:
+      213: -8128512144417803256
+    second: game-tiles-halloween@2x_75
+  - first:
+      213: 8370473710449791255
+    second: game-tiles-halloween@2x_76
+  - first:
+      213: 1004015467347474618
+    second: game-tiles-halloween@2x_77
+  - first:
+      213: -1247534678689506992
+    second: game-tiles-halloween@2x_78
+  - first:
+      213: 5824651242597365439
+    second: game-tiles-halloween@2x_79
+  - first:
+      213: -6424997501133046107
+    second: game-tiles-halloween@2x_80
+  - first:
+      213: 3466193377738771373
+    second: game-tiles-halloween@2x_81
+  - first:
+      213: 6023896861331786357
+    second: game-tiles-halloween@2x_82
+  - first:
+      213: 7357688436449354829
+    second: game-tiles-halloween@2x_83
+  - first:
+      213: 883883222647146547
+    second: game-tiles-halloween@2x_84
+  - first:
+      213: -418735239460791229
+    second: game-tiles-halloween@2x_85
+  - first:
+      213: -5468546557536504029
+    second: game-tiles-halloween@2x_86
+  - first:
+      213: -1850910590255125048
+    second: game-tiles-halloween@2x_87
+  - first:
+      213: 7643067101679212606
+    second: game-tiles-halloween@2x_88
+  - first:
+      213: 5571753783514680652
+    second: game-tiles-halloween@2x_89
+  - first:
+      213: -641398191065199701
+    second: game-tiles-halloween@2x_90
+  - first:
+      213: -119308690918333942
+    second: game-tiles-halloween@2x_91
+  - first:
+      213: -3539802395026976540
+    second: game-tiles-halloween@2x_92
+  - first:
+      213: 3523017464302596449
+    second: game-tiles-halloween@2x_93
+  - first:
+      213: -136221723308719792
+    second: game-tiles-halloween@2x_94
+  - first:
+      213: 7148365285261137072
+    second: game-tiles-halloween@2x_95
+  - first:
+      213: -8815468314473461244
+    second: game-tiles-halloween@2x_96
+  - first:
+      213: 5452127250471491262
+    second: game-tiles-halloween@2x_97
+  - first:
+      213: 9214155185650474302
+    second: game-tiles-halloween@2x_98
+  - first:
+      213: -4425394923605563731
+    second: game-tiles-halloween@2x_99
+  - first:
+      213: -2167537269023782990
+    second: game-tiles-halloween@2x_100
+  - first:
+      213: 7075587292790142085
+    second: game-tiles-halloween@2x_101
+  - first:
+      213: 2749594422624851534
+    second: game-tiles-halloween@2x_102
+  - first:
+      213: -518398580475135520
+    second: game-tiles-halloween@2x_103
+  - first:
+      213: 8885116698308412810
+    second: game-tiles-halloween@2x_104
+  - first:
+      213: 4801522623827607008
+    second: game-tiles-halloween@2x_105
+  - first:
+      213: -5034285958573722818
+    second: game-tiles-halloween@2x_106
+  - first:
+      213: 2565042299604314601
+    second: game-tiles-halloween@2x_107
+  - first:
+      213: 4035105416005974076
+    second: game-tiles-halloween@2x_108
+  - first:
+      213: -7067129551165338612
+    second: game-tiles-halloween@2x_109
+  - first:
+      213: 2443162472136575851
+    second: game-tiles-halloween@2x_110
+  - first:
+      213: -5671695140100564401
+    second: game-tiles-halloween@2x_111
+  - first:
+      213: -7105363174396339675
+    second: game-tiles-halloween@2x_112
+  - first:
+      213: 7012344328932980242
+    second: game-tiles-halloween@2x_113
+  - first:
+      213: -2484339021638964942
+    second: game-tiles-halloween@2x_114
+  - first:
+      213: 30085365594097975
+    second: game-tiles-halloween@2x_115
+  - first:
+      213: 8516001374820444130
+    second: game-tiles-halloween@2x_116
+  - first:
+      213: 631833480056957334
+    second: game-tiles-halloween@2x_117
+  - first:
+      213: 9222450481751695626
+    second: game-tiles-halloween@2x_118
+  - first:
+      213: 5450810985279188428
+    second: game-tiles-halloween@2x_119
+  - first:
+      213: 6349307066234499922
+    second: game-tiles-halloween@2x_120
+  - first:
+      213: 3426507144112989206
+    second: game-tiles-halloween@2x_121
+  - first:
+      213: 55265779245553040
+    second: game-tiles-halloween@2x_122
+  - first:
+      213: -1890577418704619570
+    second: game-tiles-halloween@2x_123
+  - first:
+      213: 1898268112140090295
+    second: game-tiles-halloween@2x_124
+  - first:
+      213: 2317710482792445261
+    second: game-tiles-halloween@2x_125
+  - first:
+      213: -4291843769428362889
+    second: game-tiles-halloween@2x_126
+  - first:
+      213: 7057835746620626209
+    second: game-tiles-halloween@2x_127
+  - first:
+      213: -3595376765792010426
+    second: game-tiles-halloween@2x_128
+  - first:
+      213: 2636511833585074287
+    second: game-tiles-halloween@2x_129
+  - first:
+      213: 4763410086489123198
+    second: game-tiles-halloween@2x_130
+  - first:
+      213: -8656256564448222769
+    second: game-tiles-halloween@2x_131
+  - first:
+      213: 2593382113795997338
+    second: game-tiles-halloween@2x_132
+  - first:
+      213: -7099011013653818956
+    second: game-tiles-halloween@2x_133
+  - first:
+      213: -2616401017029355549
+    second: game-tiles-halloween@2x_134
+  - first:
+      213: 2970043202160236570
+    second: game-tiles-halloween@2x_135
+  - first:
+      213: 8491165204988091995
+    second: game-tiles-halloween@2x_136
+  - first:
+      213: -4094739704069435945
+    second: game-tiles-halloween@2x_137
+  - first:
+      213: 3822822152101491735
+    second: game-tiles-halloween@2x_138
+  - first:
+      213: 7322167838102965949
+    second: game-tiles-halloween@2x_139
+  - first:
+      213: 4173353408728886714
+    second: game-tiles-halloween@2x_140
+  - first:
+      213: 792263256417679516
+    second: game-tiles-halloween@2x_141
+  - first:
+      213: -5551642558684409301
+    second: game-tiles-halloween@2x_142
+  - first:
+      213: -4785448537842491572
+    second: game-tiles-halloween@2x_143
+  - first:
+      213: 5518766860174329644
+    second: game-tiles-halloween@2x_144
+  - first:
+      213: 6998096179457530184
+    second: game-tiles-halloween@2x_145
+  - first:
+      213: 3850076644355860973
+    second: game-tiles-halloween@2x_146
+  - first:
+      213: 8750105996176218269
+    second: game-tiles-halloween@2x_147
+  - first:
+      213: 2434494463913620897
+    second: game-tiles-halloween@2x_148
+  - first:
+      213: -5748539042834336584
+    second: game-tiles-halloween@2x_149
+  - first:
+      213: -1466717871160200582
+    second: game-tiles-halloween@2x_150
+  - first:
+      213: 5387936185440611103
+    second: game-tiles-halloween@2x_151
+  - first:
+      213: 6345366739691599400
+    second: game-tiles-halloween@2x_152
+  - first:
+      213: -1625574455397593401
+    second: game-tiles-halloween@2x_153
+  - first:
+      213: 1494429821644251493
+    second: game-tiles-halloween@2x_154
+  - first:
+      213: -5686863427788575925
+    second: game-tiles-halloween@2x_155
+  - first:
+      213: 2843802340948949704
+    second: game-tiles-halloween@2x_156
+  - first:
+      213: 3033311492444443102
+    second: game-tiles-halloween@2x_157
+  - first:
+      213: -3395150378907959932
+    second: game-tiles-halloween@2x_158
+  - first:
+      213: 8559825120788399565
+    second: game-tiles-halloween@2x_159
+  - first:
+      213: -8689716094626215561
+    second: game-tiles-halloween@2x_160
+  - first:
+      213: -2537002342927501732
+    second: game-tiles-halloween@2x_161
+  - first:
+      213: 8334374323034741272
+    second: game-tiles-halloween@2x_162
+  - first:
+      213: -7512399282512991079
+    second: game-tiles-halloween@2x_163
+  - first:
+      213: 6312881741624395959
+    second: game-tiles-halloween@2x_164
+  - first:
+      213: -5788685575724184943
+    second: game-tiles-halloween@2x_165
+  - first:
+      213: -2184353894742147219
+    second: game-tiles-halloween@2x_166
+  - first:
+      213: -7030807864280747371
+    second: game-tiles-halloween@2x_167
+  - first:
+      213: 3832086794535470290
+    second: game-tiles-halloween@2x_168
+  - first:
+      213: -3336690414987725572
+    second: game-tiles-halloween@2x_169
+  - first:
+      213: -4331917103078805810
+    second: game-tiles-halloween@2x_170
+  - first:
+      213: 7294677063513392589
+    second: game-tiles-halloween@2x_171
+  - first:
+      213: -519704863878610236
+    second: game-tiles-halloween@2x_172
+  - first:
+      213: -4257341751299132466
+    second: game-tiles-halloween@2x_173
+  - first:
+      213: -3624720733792778627
+    second: game-tiles-halloween@2x_174
+  - first:
+      213: 66476347285429642
+    second: game-tiles-halloween@2x_175
+  - first:
+      213: -7975351161513736589
+    second: game-tiles-halloween@2x_176
+  - first:
+      213: -3853902249917963542
+    second: game-tiles-halloween@2x_177
+  - first:
+      213: -8619283580575197366
+    second: game-tiles-halloween@2x_178
+  - first:
+      213: 2457146590171765976
+    second: game-tiles-halloween@2x_179
+  - first:
+      213: -5937294556378963255
+    second: game-tiles-halloween@2x_180
+  - first:
+      213: -4352656203479866451
+    second: game-tiles-halloween@2x_181
+  - first:
+      213: 4738548152841225963
+    second: game-tiles-halloween@2x_182
+  - first:
+      213: -2511797821439200984
+    second: game-tiles-halloween@2x_183
+  - first:
+      213: -3649628928800232467
+    second: game-tiles-halloween@2x_184
+  - first:
+      213: 942144082349842315
+    second: game-tiles-halloween@2x_185
+  - first:
+      213: 2386377834547056642
+    second: game-tiles-halloween@2x_186
+  - first:
+      213: 2953740427510199440
+    second: game-tiles-halloween@2x_187
+  - first:
+      213: 1884642564235028658
+    second: game-tiles-halloween@2x_188
+  - first:
+      213: 7448323472156941798
+    second: game-tiles-halloween@2x_189
+  - first:
+      213: 604245432696044758
+    second: game-tiles-halloween@2x_190
+  - first:
+      213: -2556698984006061478
+    second: game-tiles-halloween@2x_191
+  - first:
+      213: 4234563329072063968
+    second: game-tiles-halloween@2x_192
+  - first:
+      213: -5467035681573890736
+    second: game-tiles-halloween@2x_193
+  - first:
+      213: 3482221611777141590
+    second: game-tiles-halloween@2x_194
+  - first:
+      213: 8641737442922697561
+    second: game-tiles-halloween@2x_195
+  - first:
+      213: 1238944144383084207
+    second: game-tiles-halloween@2x_196
+  - first:
+      213: -1801587520008188065
+    second: game-tiles-halloween@2x_197
+  - first:
+      213: 572846631634010908
+    second: game-tiles-halloween@2x_198
+  - first:
+      213: -3398246606437889899
+    second: game-tiles-halloween@2x_199
+  - first:
+      213: 2959390536840158811
+    second: game-tiles-halloween@2x_200
+  - first:
+      213: -6905351172008302326
+    second: game-tiles-halloween@2x_201
+  - first:
+      213: -3034126887858049321
+    second: game-tiles-halloween@2x_202
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 990
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba949f6890ec7af0800000000000000
+      internalID: -397195721803785541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 842
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014334f08098ad300800000000000000
+      internalID: 277684994745512976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 932
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0562c4a2ecd82c0800000000000000
+      internalID: -4427656177573801781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 932
+        width: 152
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0020a74c388b4ba0800000000000000
+      internalID: -6103635077489483764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 932
+        width: 156
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc06ebe39681a3e80800000000000000
+      internalID: -8198213331371269941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 932
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0f62f7da734400800000000000000
+      internalID: 307224267495247319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_6
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 932
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc811702e9301fc0800000000000000
+      internalID: -3526254865287115597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_7
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 912
+        width: 156
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f06a5231f2337930800000000000000
+      internalID: 4139708493996908793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 954
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f57f91c8306a90800000000000000
+      internalID: -7322790589849275963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 919
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ffdfc749fb05ff0800000000000000
+      internalID: -49328951427989705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 840
+        width: 156
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6b5b33af96e7c70800000000000000
+      internalID: 8970724031098894031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 794
+        width: 137
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f1f756f39937c0800000000000000
+      internalID: -4091076100242671791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 874
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ead7a9c04b47b0800000000000000
+      internalID: -5239022506666695691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 863
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d444c6ca8a75650800000000000000
+      internalID: 6221626868739886479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 884
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f0677ee0170e4b0800000000000000
+      internalID: -5413202443272581246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_15
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 888
+        width: 69
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9073f6963060a90800000000000000
+      internalID: -7348181990636058161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_16
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 800
+        width: 156
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03574c867a60459e0800000000000000
+      internalID: -1633673448741636816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe355c20023ff5a0800000000000000
+      internalID: -6485409962065051911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 848
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2bcc8d27b8da450800000000000000
+      internalID: 6101686395536716513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 842
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a5576913420240800000000000000
+      internalID: 4756437932843575493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 845
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710f3ef11e4978f20800000000000000
+      internalID: 3424869736262135831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df394c4f2ec45b100800000000000000
+      internalID: 123089102475400189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 844
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a791df57a0742470800000000000000
+      internalID: 8368937871730644896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_23
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 844
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c81f2631d3b54db0800000000000000
+      internalID: -4808239316009543480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 844
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b59e72d4dc48d3b0800000000000000
+      internalID: -5487551669002660427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 844
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49e6d7b049752f0800000000000000
+      internalID: -984155216487213889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 625
+        width: 154
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f980ca52bcdcfc0800000000000000
+      internalID: -3472896374972309696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 800
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f08015114733280800000000000000
+      internalID: -9064774007243927729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 660
+        width: 119
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28272a8ad5dafd30800000000000000
+      internalID: 4466117115088676908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 798
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f78f85db985c420800000000000000
+      internalID: 2649675402111909689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 798
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037ba4a455a383c20800000000000000
+      internalID: 3186360874357667632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 786
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e43ee77e1a149920800000000000000
+      internalID: 2996048370271663328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_32
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 801
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c602c66f9b8fb30800000000000000
+      internalID: 4321408310489148464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 732
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2948597d0aa51a650800000000000000
+      internalID: 6242370205370385554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 748
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f081bcd205c7170800000000000000
+      internalID: 8177499181009080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 745
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eb47d812e05d7c0800000000000000
+      internalID: -4047313152852574595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 745
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096100a6f59f4ed0800000000000000
+      internalID: -2427556787650467570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 745
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a2941d48d5fa90800000000000000
+      internalID: -7280675397005301386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_38
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 745
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd269f9b4f09fc60800000000000000
+      internalID: 7852324242771553776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 745
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120e5608982707b90800000000000000
+      internalID: -7246165865548881887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_40
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 745
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1eecfc48ee1b50800000000000000
+      internalID: 6565940724111384505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 745
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ce2c93822c80f0800000000000000
+      internalID: -1113477059210983099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 743
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228e4e52a1e0c0c0800000000000000
+      internalID: -4557394735415786974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 743
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6860b4fa33a10b50800000000000000
+      internalID: 6557702006036785259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 766
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5199f8a86fcedb680800000000000000
+      internalID: -8737567158398117611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_45
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 744
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47cb357887ebae10800000000000000
+      internalID: 2210114615423780685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_46
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe934907e220fcb0800000000000000
+      internalID: -4832324024480325897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_47
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 737
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1341553317935790800000000000000
+      internalID: -7542518842160757987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_48
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 683
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc1fa9f93ee7560800000000000000
+      internalID: 7313533119535108028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 733
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2f35885ad3285e0800000000000000
+      internalID: -1908895510885567749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 745
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ebcbeaae65e190800000000000000
+      internalID: -7933813488163757748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add45885dea3e6ed0800000000000000
+      internalID: -2418931158784586278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 745
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935be1f633e24840800000000000000
+      internalID: 5206973944320185246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_53
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711311775ec5a6b0800000000000000
+      internalID: -5285591712694857345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 745
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4b87142915ab300800000000000000
+      internalID: 268616816387470590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_55
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 745
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c815f21128674a040800000000000000
+      internalID: 4657978215614075276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 745
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fd232dad14b4a60800000000000000
+      internalID: 7659287999358885688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_57
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 744
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c48d63e93a8c70800000000000000
+      internalID: 8974048856446912888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_58
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 733
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955da24b2156e7e00800000000000000
+      internalID: 1044383294603056473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 662
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4a93ad213d4470800000000000000
+      internalID: 8380408553694449049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 677
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10580120ea0f88100800000000000000
+      internalID: 110602821020189953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 691
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cc9dd19732cc8c0800000000000000
+      internalID: -3977765367776162799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 691
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc96eb6de7f306da0800000000000000
+      internalID: -5953688893382563381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_63
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 691
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1052b88af7df05940800000000000000
+      internalID: 5283001087635956993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 691
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b9122d62dae5c40800000000000000
+      internalID: 5503026176939105088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 691
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2f6a3b7c4c27bc0800000000000000
+      internalID: -3786747974673566984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_66
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 691
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82fc38def9d1d6b0800000000000000
+      internalID: -5273194000101346677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 691
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4cb943256b2eb0800000000000000
+      internalID: -4743586580269346923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_68
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 691
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be90b580d0db4840800000000000000
+      internalID: 5209486987998830261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 691
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1de54dc6087ad0800000000000000
+      internalID: -2704404097524752428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 691
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f85677136594d00800000000000000
+      internalID: 957391166249471889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 690
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c031952eb745b0800000000000000
+      internalID: -5384125760939179610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_72
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 691
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298ab848f1d16ab00800000000000000
+      internalID: 839390401756113042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_73
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 691
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7db6cf332c0e20800000000000000
+      internalID: 3318065782289432216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_74
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 691
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f77e7ee8c6123c20800000000000000
+      internalID: 3184632938754897910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_75
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 691
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80437877549b13f80800000000000000
+      internalID: -8128512144417803256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_76
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 691
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7111b11bd75e92470800000000000000
+      internalID: 8370473710449791255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_77
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 691
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab87e308fbafeed00800000000000000
+      internalID: 1004015467347474618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_78
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 690
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591bb7c1dddfaee0800000000000000
+      internalID: -1247534678689506992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_79
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 691
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6bd8fd17155d050800000000000000
+      internalID: 5824651242597365439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_80
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 691
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae313650d2d5d6a0800000000000000
+      internalID: -6424997501133046107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 690
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab4eea23846a1030800000000000000
+      internalID: 3466193377738771373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_82
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 698
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a8547874e299350800000000000000
+      internalID: 6023896861331786357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 662
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44209676a2cb1660800000000000000
+      internalID: 7357688436449354829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_84
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 644
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3388fc4ab1f244c00800000000000000
+      internalID: 883883222647146547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 645
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c500da48a503af0800000000000000
+      internalID: -418735239460791229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_86
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 648
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327f95821e1db14b0800000000000000
+      internalID: -5468546557536504029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_87
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 650
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda5dcef9e3056e0800000000000000
+      internalID: -1850910590255125048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_88
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 651
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385016c801a11a60800000000000000
+      internalID: 7643067101679212606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_89
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 660
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dc452bb88d25d40800000000000000
+      internalID: 5571753783514680652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_90
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 586
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0bf55ebb4917f0800000000000000
+      internalID: -641398191065199701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_91
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 571
+        width: 152
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a022233b061285ef0800000000000000
+      internalID: -119308690918333942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 627
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e01755f97810eec0800000000000000
+      internalID: -3539802395026976540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_93
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 652
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f041d7b544e030800000000000000
+      internalID: 3523017464302596449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 634
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0510e7b701b0c1ef0800000000000000
+      internalID: -136221723308719792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 626
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b459b07a58143360800000000000000
+      internalID: 7148365285261137072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_96
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 640
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a091b364a29a580800000000000000
+      internalID: -8815468314473461244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_97
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 641
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6949209d8d9ab40800000000000000
+      internalID: 5452127250471491262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 552
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d150a92514fdf70800000000000000
+      internalID: 9214155185650474302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 552
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66ca383c6d592c0800000000000000
+      internalID: -4425394923605563731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_100
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 620
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7ca62865c5be1e0800000000000000
+      internalID: -2167537269023782990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_101
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 633
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584360c9729813260800000000000000
+      internalID: 7075587292790142085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 589
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4613f43f85882620800000000000000
+      internalID: 2749594422624851534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 500
+        width: 156
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e976b6dc374ec8f0800000000000000
+      internalID: -518398580475135520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_104
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 583
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85809ecf864e4b70800000000000000
+      internalID: 8885116698308412810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_105
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 583
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edfe36036f62a240800000000000000
+      internalID: 4801522623827607008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_106
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 583
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f97de79f922ab0800000000000000
+      internalID: -5034285958573722818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_107
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 583
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e924cd916cd89320800000000000000
+      internalID: 2565042299604314601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_108
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 583
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c387a483ff29ff730800000000000000
+      internalID: 4035105416005974076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_109
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 376
+        width: 154
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ccf11dd138ced90800000000000000
+      internalID: -7067129551165338612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 556
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0440f25bd7e120800000000000000
+      internalID: 2443162472136575851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_111
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 546
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1ffbe1571a41b0800000000000000
+      internalID: -5671695140100564401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_112
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 546
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ad6f5b6dda46d90800000000000000
+      internalID: -7105363174396339675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_113
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 546
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21676c0a30ad05160800000000000000
+      internalID: 7012344328932980242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_114
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 546
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239619982dad58dd0800000000000000
+      internalID: -2484339021638964942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_115
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 569
+        width: 106
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398c290b72ea6000800000000000000
+      internalID: 30085365594097975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_116
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 557
+        width: 106
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e729e4712aee2670800000000000000
+      internalID: 8516001374820444130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 520
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996ef7d339b4c800800000000000000
+      internalID: 631833480056957334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_118
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 428
+        width: 156
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01a07bb9d9bcff70800000000000000
+      internalID: 9222450481751695626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_119
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 509
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdec5326bb25ab40800000000000000
+      internalID: 5450810985279188428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_120
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 513
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f8ccf2254d1850800000000000000
+      internalID: 6349307066234499922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_121
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 491
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6146139d7166d8f20800000000000000
+      internalID: 3426507144112989206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 116
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0959a24fee754c000800000000000000
+      internalID: 55265779245553040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_123
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 423
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec77cb9bad153c5e0800000000000000
+      internalID: -1890577418704619570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_124
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 421
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbbf806ac0085a10800000000000000
+      internalID: 1898268112140090295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_125
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 361
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45fa0387692a2020800000000000000
+      internalID: 2317710482792445261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_126
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 335
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779bfb3b4de4074c0800000000000000
+      internalID: -4291843769428362889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_127
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 455
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255060b73872f160800000000000000
+      internalID: 7057835746620626209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_128
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f364171e7aa1ec0800000000000000
+      internalID: -3595376765792010426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 440
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c3f63b85c69420800000000000000
+      internalID: 2636511833585074287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 442
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7962bc6c380b1240800000000000000
+      internalID: 4763410086489123198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_131
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 419
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ab67748cced780800000000000000
+      internalID: -8656256564448222769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e79abca4b8df320800000000000000
+      internalID: 2593382113795997338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_133
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 383
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b11492681f3b7d90800000000000000
+      internalID: -7099011013653818956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 402
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79ef5232da0bbd0800000000000000
+      internalID: -2616401017029355549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_135
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 308
+        width: 156
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1813507e86b73920800000000000000
+      internalID: 2970043202160236570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_136
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 343
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed87c04cda6d570800000000000000
+      internalID: 8491165204988091995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_137
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 383
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc04b1fef8c27c0800000000000000
+      internalID: -4094739704069435945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_138
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 393
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714f08f3e746d0530800000000000000
+      internalID: 3822822152101491735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_139
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 362
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbecaefaad09d9560800000000000000
+      internalID: 7322167838102965949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 326
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd637950dabae930800000000000000
+      internalID: 4173353408728886714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_141
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 368
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98be5feb3faefa00800000000000000
+      internalID: 792263256417679516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22dca9b18a94f2b0800000000000000
+      internalID: -5551642558684409301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_143
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 348
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f5cf2c8eba69db0800000000000000
+      internalID: -4785448537842491572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2783ea3839969c40800000000000000
+      internalID: 5518766860174329644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_145
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499590d56b3e1160800000000000000
+      internalID: 6998096179457530184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_146
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 350
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ebd83f483e6530800000000000000
+      internalID: 3850076644355860973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_147
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 345
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9859112b0f9e6970800000000000000
+      internalID: 8750105996176218269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_148
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 289
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f93101df09c120800000000000000
+      internalID: 2434494463913620897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_149
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 290
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4356692361930b0800000000000000
+      internalID: -5748539042834336584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_150
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 290
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7277cffddb25abe0800000000000000
+      internalID: -1466717871160200582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_151
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 290
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b29a50a6bc5ca40800000000000000
+      internalID: 5387936185440611103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_152
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 300
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82675e83e654f0850800000000000000
+      internalID: 6345366739691599400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_153
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 290
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec31e35acc079e0800000000000000
+      internalID: -1625574455397593401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_154
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 320
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5612bd441084db410800000000000000
+      internalID: 1494429821644251493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_155
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 292
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b608cb7d33411b0800000000000000
+      internalID: -5686863427788575925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_156
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 292
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cabfa77927377720800000000000000
+      internalID: 2843802340948949704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_157
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 293
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1d2403bbc781a20800000000000000
+      internalID: 3033311492444443102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_158
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 303
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d782af7b002e0d0800000000000000
+      internalID: -3395150378907959932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_159
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 310
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ce00789b9ac670800000000000000
+      internalID: 8559825120788399565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_160
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 299
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7794fc4804de76780800000000000000
+      internalID: -8689716094626215561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_161
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 156
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56f87b8fc1caccd0800000000000000
+      internalID: -2537002342927501732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_162
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 188
+        width: 156
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5f951a45a9a370800000000000000
+      internalID: 8334374323034741272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_163
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce9eaa7a89eb790800000000000000
+      internalID: -7512399282512991079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_164
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 291
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b842963f7cdb9750800000000000000
+      internalID: 6312881741624395959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_165
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a488e73257aafa0800000000000000
+      internalID: -5788685575724184943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_166
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 292
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f3728b4bd9fa1e0800000000000000
+      internalID: -2184353894742147219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_167
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 293
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592f58d8f7d8d6e90800000000000000
+      internalID: -7030807864280747371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_168
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 293
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d480c8e2ae4e2530800000000000000
+      internalID: 3832086794535470290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_169
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 294
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4b4310fb1b1b1d0800000000000000
+      internalID: -3336690414987725572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_170
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 274
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece6c82a850f1e3c0800000000000000
+      internalID: -4331917103078805810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_171
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c7e1f326eb3560800000000000000
+      internalID: 7294677063513392589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_172
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 231
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c209780e23a9c8f0800000000000000
+      internalID: -519704863878610236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_173
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 223
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3306acb32eae4c0800000000000000
+      internalID: -4257341751299132466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_174
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 236
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c94c72b762bdc0800000000000000
+      internalID: -3624720733792778627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_175
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 237
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd9e9b2eb2ce000800000000000000
+      internalID: 66476347285429642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_176
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 239
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37689f2bf5cd15190800000000000000
+      internalID: -7975351161513736589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_177
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 241
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2af829250348ac0800000000000000
+      internalID: -3853902249917963542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_178
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 242
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4755791047226880800000000000000
+      internalID: -8619283580575197366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_179
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 244
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc10442ec9891220800000000000000
+      internalID: 2457146590171765976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_180
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 245
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2eb20ee0e7a9da0800000000000000
+      internalID: -5937294556378963255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_181
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 246
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3ae2a8e324893c0800000000000000
+      internalID: -4352656203479866451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_182
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 247
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be64f296074b2c140800000000000000
+      internalID: 4738548152841225963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_183
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 249
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213481803d442dd0800000000000000
+      internalID: -2511797821439200984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_184
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 230
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6fd863d9e95dc0800000000000000
+      internalID: -3649628928800232467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_185
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 237
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fd2bb1d0b231d00800000000000000
+      internalID: 942144082349842315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_186
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 233
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2001b083ffd1e1120800000000000000
+      internalID: 2386377834547056642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_187
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 218
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b47ce44bcdf820800000000000000
+      internalID: 2953740427510199440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_188
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b86fc94d68972a10800000000000000
+      internalID: 1884642564235028658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_189
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 201
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed5e1a2cb2cd5760800000000000000
+      internalID: 7448323472156941798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_190
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 121
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfff40506b26800800000000000000
+      internalID: 604245432696044758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_191
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 131
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5277bce1d7c48cd0800000000000000
+      internalID: -2556698984006061478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_192
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4
+        width: 105
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56c3089e034ca30800000000000000
+      internalID: 4234563329072063968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_193
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 165
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055176163003124b0800000000000000
+      internalID: -5467035681573890736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_194
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 162
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b2a273b16535030800000000000000
+      internalID: 3482221611777141590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_195
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 162
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953999f1b6e9de770800000000000000
+      internalID: 8641737442922697561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_196
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 125
+        width: 118
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa60186922d913110800000000000000
+      internalID: 1238944144383084207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_197
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 71
+        width: 122
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f822e12b97ff6e0800000000000000
+      internalID: -1801587520008188065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_198
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130355f9f823f700800000000000000
+      internalID: 572846631634010908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_199
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 157
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598c71457b007d0d0800000000000000
+      internalID: -3398246606437889899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_200
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 157
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e9204830ed11920800000000000000
+      internalID: 2959390536840158811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_201
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 157
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092e17f1b34b20a0800000000000000
+      internalID: -6905351172008302326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles-halloween@2x_202
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 9
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de62c5cbad94e5d0800000000000000
+      internalID: -3034126887858049321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

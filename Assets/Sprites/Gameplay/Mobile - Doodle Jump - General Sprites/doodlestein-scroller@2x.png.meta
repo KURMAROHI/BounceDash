@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 508babefc76790547836ee6b3adef36c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7185046344656191945
+    second: doodlestein-scroller@2x_0
+  - first:
+      213: -1279665848052246760
+    second: doodlestein-scroller@2x_1
+  - first:
+      213: 7021213710211404680
+    second: doodlestein-scroller@2x_2
+  - first:
+      213: -6971150049949444272
+    second: doodlestein-scroller@2x_3
+  - first:
+      213: 4754376117902775811
+    second: doodlestein-scroller@2x_4
+  - first:
+      213: -5251276675209802749
+    second: doodlestein-scroller@2x_5
+  - first:
+      213: 4782039723456854730
+    second: doodlestein-scroller@2x_6
+  - first:
+      213: 2166321555950262548
+    second: doodlestein-scroller@2x_7
+  - first:
+      213: -4701974569064471744
+    second: doodlestein-scroller@2x_8
+  - first:
+      213: 7551875304359258358
+    second: doodlestein-scroller@2x_9
+  - first:
+      213: 7700070952058213664
+    second: doodlestein-scroller@2x_10
+  - first:
+      213: 5320909600065377685
+    second: doodlestein-scroller@2x_11
+  - first:
+      213: 2448661640693933333
+    second: doodlestein-scroller@2x_12
+  - first:
+      213: -6567876053637830554
+    second: doodlestein-scroller@2x_13
+  - first:
+      213: 6607529512824444008
+    second: doodlestein-scroller@2x_14
+  - first:
+      213: -6592345167607316612
+    second: doodlestein-scroller@2x_15
+  - first:
+      213: -3241360195398139932
+    second: doodlestein-scroller@2x_16
+  - first:
+      213: -74556149858449129
+    second: doodlestein-scroller@2x_17
+  - first:
+      213: 21997164331262582
+    second: doodlestein-scroller@2x_18
+  - first:
+      213: 2331688310618410952
+    second: doodlestein-scroller@2x_19
+  - first:
+      213: 2726298725727627201
+    second: doodlestein-scroller@2x_20
+  - first:
+      213: -7309292365244837611
+    second: doodlestein-scroller@2x_21
+  - first:
+      213: -3427127006980302187
+    second: doodlestein-scroller@2x_22
+  - first:
+      213: 6423700977032284024
+    second: doodlestein-scroller@2x_23
+  - first:
+      213: -4979268919752682054
+    second: doodlestein-scroller@2x_24
+  - first:
+      213: -7468019911830189140
+    second: doodlestein-scroller@2x_25
+  - first:
+      213: 8066373025539949463
+    second: doodlestein-scroller@2x_26
+  - first:
+      213: -1886628832803389365
+    second: doodlestein-scroller@2x_27
+  - first:
+      213: -507807641192878120
+    second: doodlestein-scroller@2x_28
+  - first:
+      213: 8603325837330049320
+    second: doodlestein-scroller@2x_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 73
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c183fb159966b360800000000000000
+      internalID: 7185046344656191945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 993
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81795afe0b6bd3ee0800000000000000
+      internalID: -1279665848052246760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 940
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883d0416bac507160800000000000000
+      internalID: 7021213710211404680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05711dcd6ff714f90800000000000000
+      internalID: -6971150049949444272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 965
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3061234b3efeaf140800000000000000
+      internalID: 4754376117902775811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 100
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c43d4bfa7bf17b0800000000000000
+      internalID: -5251276675209802749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 925
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaf37acac73d5240800000000000000
+      internalID: 4782039723456854730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 885
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419dfab3af1501e10800000000000000
+      internalID: 2166321555950262548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 837
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043edf3aa0b3fbeb0800000000000000
+      internalID: -4701974569064471744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 845
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8e068e396adc860800000000000000
+      internalID: 7551875304359258358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025dbb2fbb52cda60800000000000000
+      internalID: 7700070952058213664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 805
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595dcd1071ba7d940800000000000000
+      internalID: 5320909600065377685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 813
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515efa4e9c46bf120800000000000000
+      internalID: 2448661640693933333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 777
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686f1ef6873ad4a0800000000000000
+      internalID: -6567876053637830554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8649fce6519a2bb50800000000000000
+      internalID: 6607529512824444008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 749
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb0007ff84384a0800000000000000
+      internalID: -6592345167607316612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 709
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff33463106403d0800000000000000
+      internalID: -3241360195398139932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 392
+        width: 60
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719cdd3a39f17fef0800000000000000
+      internalID: -74556149858449129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 102
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e70eed462e4000800000000000000
+      internalID: 21997164331262582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 669
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf47592a22db5020800000000000000
+      internalID: 2331688310618410952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 629
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7689a1f32c5d520800000000000000
+      internalID: 2726298725727627201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 597
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115b12f15d209a90800000000000000
+      internalID: -7309292365244837611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 606
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9ac415266070d0800000000000000
+      internalID: -3427127006980302187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 570
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c65f1102952950800000000000000
+      internalID: 6423700977032284024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 71
+        width: 69
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59ffc7c4516eab0800000000000000
+      internalID: -4979268919752682054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 328
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab41db15734c5890800000000000000
+      internalID: -7468019911830189140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7930a1d778381ff60800000000000000
+      internalID: 8066373025539949463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408eb5821951d5e0800000000000000
+      internalID: -1886628832803389365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df287c04a7e3f8f0800000000000000
+      internalID: -507807641192878120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein-scroller@2x_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296ff44447256770800000000000000
+      internalID: 8603325837330049320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
